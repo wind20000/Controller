@@ -1,4 +1,4 @@
-Loading object D:\【利拍档】\一些项目\麻将机控制器\project\software\LPDEC-04D01H_V01.01_180521\Project\Debug\Obj\1 task_safeguard.o.
+Loading object D:\Controller\LPDEC-04D01H_V01.01_180521\Project\Debug\Obj\1 task_safeguard.o.
               reference :  ?b0
               reference :  ?b1
               reference :  ?b2
@@ -11,7 +11,7 @@ Loading object D:\【利拍档】\一些项目\麻将机控制器\project\software\LPDEC-04D01H
               reference :  ga_TaskMapTable
               definition:  SG_Task
               definition:  voltage
-Loading object D:\【利拍档】\一些项目\麻将机控制器\project\software\LPDEC-04D01H_V01.01_180521\Project\Debug\Obj\2 task_control.o.
+Loading object D:\Controller\LPDEC-04D01H_V01.01_180521\Project\Debug\Obj\2 task_control.o.
               reference :  ?b0
               reference :  ?b1
               reference :  ?b2
@@ -23,7 +23,7 @@ Loading object D:\【利拍档】\一些项目\麻将机控制器\project\software\LPDEC-04D01H
               reference :  ga_Subtask
               reference :  ga_TaskMapTable
               definition:  Contrl_Task
-Loading object D:\【利拍档】\一些项目\麻将机控制器\project\software\LPDEC-04D01H_V01.01_180521\Project\Debug\Obj\3 task_mem_read.o.
+Loading object D:\Controller\LPDEC-04D01H_V01.01_180521\Project\Debug\Obj\3 task_mem_read.o.
               reference :  ?b0
               reference :  ?b1
               reference :  ?b2
@@ -35,7 +35,7 @@ Loading object D:\【利拍档】\一些项目\麻将机控制器\project\software\LPDEC-04D01H
               reference :  ga_Subtask
               reference :  ga_TaskMapTable
               definition:  MEM_Read_Task
-Loading object D:\【利拍档】\一些项目\麻将机控制器\project\software\LPDEC-04D01H_V01.01_180521\Project\Debug\Obj\4 task_mem_write.o.
+Loading object D:\Controller\LPDEC-04D01H_V01.01_180521\Project\Debug\Obj\4 task_mem_write.o.
               reference :  ?b0
               reference :  ?b1
               reference :  ?b2
@@ -52,7 +52,7 @@ Loading object D:\【利拍档】\一些项目\麻将机控制器\project\software\LPDEC-04D01H
               reference :  ga_Subtask
               reference :  ga_TaskMapTable
               definition:  MEM_Write_Task
-Loading object D:\【利拍档】\一些项目\麻将机控制器\project\software\LPDEC-04D01H_V01.01_180521\Project\Debug\Obj\5 task_measure.o.
+Loading object D:\Controller\LPDEC-04D01H_V01.01_180521\Project\Debug\Obj\5 task_measure.o.
               reference :  ?b0
               reference :  ?b1
               reference :  ?b2
@@ -64,7 +64,7 @@ Loading object D:\【利拍档】\一些项目\麻将机控制器\project\software\LPDEC-04D01H
               reference :  ga_Subtask
               reference :  ga_TaskMapTable
               definition:  Measure_Task
-Loading object D:\【利拍档】\一些项目\麻将机控制器\project\software\LPDEC-04D01H_V01.01_180521\Project\Debug\Obj\6 task_communicate.o.
+Loading object D:\Controller\LPDEC-04D01H_V01.01_180521\Project\Debug\Obj\6 task_communicate.o.
               reference :  ?b0
               reference :  ?b1
               reference :  ?b2
@@ -82,7 +82,7 @@ Loading object D:\【利拍档】\一些项目\麻将机控制器\project\software\LPDEC-04D01H
               reference :  ga_Subtask
               reference :  ga_TaskMapTable
               definition:  COMM_Task
-Loading object D:\【利拍档】\一些项目\麻将机控制器\project\software\LPDEC-04D01H_V01.01_180521\Project\Debug\Obj\7 task_net_connect.o.
+Loading object D:\Controller\LPDEC-04D01H_V01.01_180521\Project\Debug\Obj\7 task_net_connect.o.
               reference :  ?b0
               reference :  ?b1
               reference :  ?b2
@@ -94,7 +94,7 @@ Loading object D:\【利拍档】\一些项目\麻将机控制器\project\software\LPDEC-04D01H
               reference :  ga_Subtask
               reference :  ga_TaskMapTable
               definition:  Net_Conn_Task
-Loading object D:\【利拍档】\一些项目\麻将机控制器\project\software\LPDEC-04D01H_V01.01_180521\Project\Debug\Obj\8 task_interaction.o.
+Loading object D:\Controller\LPDEC-04D01H_V01.01_180521\Project\Debug\Obj\8 task_interaction.o.
               reference :  ?b0
               reference :  ?b1
               reference :  ?b2
@@ -110,10 +110,12 @@ Loading object D:\【利拍档】\一些项目\麻将机控制器\project\software\LPDEC-04D01H
               reference :  ga_Subtask
               reference :  ga_TaskMapTable
               definition:  Interaction_Task
-Loading object D:\【利拍档】\一些项目\麻将机控制器\project\software\LPDEC-04D01H_V01.01_180521\Project\Debug\Obj\app_clock.o.
-Loading object D:\【利拍档】\一些项目\麻将机控制器\project\software\LPDEC-04D01H_V01.01_180521\Project\Debug\Obj\app_comm_g510.o.
+Loading object D:\Controller\LPDEC-04D01H_V01.01_180521\Project\Debug\Obj\app_clock.o.
+Loading object D:\Controller\LPDEC-04D01H_V01.01_180521\Project\Debug\Obj\app_comm_g510.o.
               reference :  ?b0
               reference :  ?b1
+              reference :  ?b10
+              reference :  ?b11
               reference :  ?b12
               reference :  ?b13
               reference :  ?b14
@@ -148,18 +150,22 @@ Loading object D:\【利拍档】\一些项目\麻将机控制器\project\software\LPDEC-04D01H
               reference :  ?mov_e2_e1
               reference :  ?mov_e2_e3
               reference :  ?mov_e3_e0
+              reference :  ?mov_e3_e1
               reference :  ?mov_e3_e2
               reference :  ?mov_w3_w4
               reference :  ?move1624_v_x_e0_y
               reference :  ?mul16_x_x_w0
               reference :  ?pop_e2
               reference :  ?pop_e3
+              reference :  ?pop_w6
               reference :  ?push_e0
+              reference :  ?push_e1
               reference :  ?push_e2
               reference :  ?push_e3
               reference :  ?push_l2
               reference :  ?push_l3
               reference :  ?push_w4
+              reference :  ?push_w6
               reference :  ?sll16_x_x_a
               reference :  ?sub32_l0_l0_l1
               reference :  ?ucmp24_c_0x_e0
@@ -170,8 +176,10 @@ Loading object D:\【利拍档】\一些项目\麻将机控制器\project\software\LPDEC-04D01H
               reference :  ?w3
               reference :  ?w4
               reference :  ?w5
+              reference :  ?w6
               reference :  ?w7
               reference :  Ascii_To_Hex
+              reference :  BSP_LOG
               reference :  BSP_UART_Transmit
               reference :  Check_Strstr
               reference :  CntLeadZeros
@@ -200,10 +208,10 @@ Loading object D:\【利拍档】\一些项目\麻将机控制器\project\software\LPDEC-04D01H
               definition:  PacketHead
               definition:  g_stGPRS_Handler
               definition:  strstr
-              definition:  __iar_cc.._Pzus3vzqZB
-              definition:  __iar_cc..tJwXq0JMgK7
-Loading object D:\【利拍档】\一些项目\麻将机控制器\project\software\LPDEC-04D01H_V01.01_180521\Project\Debug\Obj\app_comm_pc.o.
-Loading object D:\【利拍档】\一些项目\麻将机控制器\project\software\LPDEC-04D01H_V01.01_180521\Project\Debug\Obj\app_common.o.
+              definition:  __iar_cc..wZzhZmiN3y6
+              definition:  __iar_cc..HPGoI1UkJ5A
+Loading object D:\Controller\LPDEC-04D01H_V01.01_180521\Project\Debug\Obj\app_comm_pc.o.
+Loading object D:\Controller\LPDEC-04D01H_V01.01_180521\Project\Debug\Obj\app_common.o.
               reference :  ?b0
               reference :  ?b1
               reference :  ?b10
@@ -265,7 +273,7 @@ Loading object D:\【利拍档】\一些项目\麻将机控制器\project\software\LPDEC-04D01H
               definition:  Set_Task
               definition:  Xor_Check
               definition:  clear_task
-Loading object D:\【利拍档】\一些项目\麻将机控制器\project\software\LPDEC-04D01H_V01.01_180521\Project\Debug\Obj\bsp_common.o.
+Loading object D:\Controller\LPDEC-04D01H_V01.01_180521\Project\Debug\Obj\bsp_common.o.
               reference :  ?w0
               reference :  ?w1
               reference :  APP_COMM_Init
@@ -274,6 +282,7 @@ Loading object D:\【利拍档】\一些项目\麻将机控制器\project\software\LPDEC-04D01H
               reference :  Bsp_Tim2_Init
               reference :  Bsp_Tim3_Delay_Init
               reference :  Bsp_UART1_Init
+              reference :  Bsp_UART3_Init
               reference :  Bsp_Var_Init
               reference :  Dynamic_Init
               reference :  IWDG_Init
@@ -281,7 +290,7 @@ Loading object D:\【利拍档】\一些项目\麻将机控制器\project\software\LPDEC-04D01H
               definition:  Bsp_Peripheral_Init
               definition:  Com_Bsp_Init
               definition:  Task_Flag_Struct
-Loading object D:\【利拍档】\一些项目\麻将机控制器\project\software\LPDEC-04D01H_V01.01_180521\Project\Debug\Obj\bsp_gpio.o.
+Loading object D:\Controller\LPDEC-04D01H_V01.01_180521\Project\Debug\Obj\bsp_gpio.o.
               reference :  ?b0
               reference :  ?b1
               reference :  ?b2
@@ -289,8 +298,8 @@ Loading object D:\【利拍档】\一些项目\麻将机控制器\project\software\LPDEC-04D01H
               reference :  EXTI_SetPinSensitivity
               reference :  GPIO_Init
               definition:  Bsp_GPIO_Init
-              definition:  __iar_cc..tJwXq0JMgK7
-Loading object D:\【利拍档】\一些项目\麻将机控制器\project\software\LPDEC-04D01H_V01.01_180521\Project\Debug\Obj\bsp_gprs.o.
+              definition:  __iar_cc..HPGoI1UkJ5A
+Loading object D:\Controller\LPDEC-04D01H_V01.01_180521\Project\Debug\Obj\bsp_gprs.o.
               reference :  ?b1
               reference :  ?b2
               reference :  ?b3
@@ -301,8 +310,8 @@ Loading object D:\【利拍档】\一些项目\麻将机控制器\project\software\LPDEC-04D01H
               definition:  G510_Buck_EN
               definition:  G510_Power_OFF
               definition:  G510_Power_ON
-              definition:  __iar_cc..tJwXq0JMgK7
-Loading object D:\【利拍档】\一些项目\麻将机控制器\project\software\LPDEC-04D01H_V01.01_180521\Project\Debug\Obj\bsp_iwdg.o.
+              definition:  __iar_cc..HPGoI1UkJ5A
+Loading object D:\Controller\LPDEC-04D01H_V01.01_180521\Project\Debug\Obj\bsp_iwdg.o.
               reference :  IWDG_Enable
               reference :  IWDG_ReloadCounter
               reference :  IWDG_SetPrescaler
@@ -310,7 +319,7 @@ Loading object D:\【利拍档】\一些项目\麻将机控制器\project\software\LPDEC-04D01H
               reference :  IWDG_WriteAccessCmd
               definition:  Feed_The_IWDog
               definition:  IWDG_Init
-Loading object D:\【利拍档】\一些项目\麻将机控制器\project\software\LPDEC-04D01H_V01.01_180521\Project\Debug\Obj\bsp_key.o.
+Loading object D:\Controller\LPDEC-04D01H_V01.01_180521\Project\Debug\Obj\bsp_key.o.
               reference :  ?b1
               reference :  ?b2
               reference :  ?b3
@@ -326,8 +335,8 @@ Loading object D:\【利拍档】\一些项目\麻将机控制器\project\software\LPDEC-04D01H
               definition:  Bsp_Key_Tim
               definition:  KEY_Struct
               definition:  Key_Tips
-              definition:  __iar_cc..tJwXq0JMgK7
-Loading object D:\【利拍档】\一些项目\麻将机控制器\project\software\LPDEC-04D01H_V01.01_180521\Project\Debug\Obj\bsp_led.o.
+              definition:  __iar_cc..HPGoI1UkJ5A
+Loading object D:\Controller\LPDEC-04D01H_V01.01_180521\Project\Debug\Obj\bsp_led.o.
               reference :  ?b1
               reference :  ?b2
               reference :  ?b3
@@ -343,8 +352,8 @@ Loading object D:\【利拍档】\一些项目\麻将机控制器\project\software\LPDEC-04D01H
               definition:  KEY_LED_Struct
               definition:  LED_Status
               definition:  LED_Struct
-              definition:  __iar_cc..tJwXq0JMgK7
-Loading object D:\【利拍档】\一些项目\麻将机控制器\project\software\LPDEC-04D01H_V01.01_180521\Project\Debug\Obj\bsp_mem.o.
+              definition:  __iar_cc..HPGoI1UkJ5A
+Loading object D:\Controller\LPDEC-04D01H_V01.01_180521\Project\Debug\Obj\bsp_mem.o.
               reference :  ?add32_l0_l0_l1
               reference :  ?b0
               reference :  ?b1
@@ -399,6 +408,7 @@ Loading object D:\【利拍档】\一些项目\麻将机控制器\project\software\LPDEC-04D01H
               reference :  ?w5
               reference :  ?w6
               reference :  ?w7
+              reference :  BSP_LOG
               reference :  Bsp_Tim3_Delay_Ms
               reference :  Feed_The_IWDog
               reference :  GPIO_ResetBits
@@ -417,8 +427,8 @@ Loading object D:\【利拍档】\一些项目\麻将机控制器\project\software\LPDEC-04D01H
               definition:  Store_Solid_Romdata
               definition:  lock_PROG
               definition:  unlock_PROG
-              definition:  __iar_cc..tJwXq0JMgK7
-Loading object D:\【利拍档】\一些项目\麻将机控制器\project\software\LPDEC-04D01H_V01.01_180521\Project\Debug\Obj\bsp_rcc.o.
+              definition:  __iar_cc..HPGoI1UkJ5A
+Loading object D:\Controller\LPDEC-04D01H_V01.01_180521\Project\Debug\Obj\bsp_rcc.o.
               reference :  CLK_ClockSecuritySystemEnable
               reference :  CLK_DeInit
               reference :  CLK_GetFlagStatus
@@ -430,7 +440,7 @@ Loading object D:\【利拍档】\一些项目\麻将机控制器\project\software\LPDEC-04D01H
               definition:  Bsp_Rcc_Init
               definition:  Use_HSI_Clock
               definition:  Use_LSE_Clock
-Loading object D:\【利拍档】\一些项目\麻将机控制器\project\software\LPDEC-04D01H_V01.01_180521\Project\Debug\Obj\bsp_tim.o.
+Loading object D:\Controller\LPDEC-04D01H_V01.01_180521\Project\Debug\Obj\bsp_tim.o.
               reference :  ?b0
               reference :  ?epilogue_w4
               reference :  ?push_w4
@@ -460,7 +470,7 @@ Loading object D:\【利拍档】\一些项目\麻将机控制器\project\software\LPDEC-04D01H
               definition:  Bsp_Tim5_Init
               definition:  Bsp_Tim_Update
               definition:  Tim_Struct
-Loading object D:\【利拍档】\一些项目\麻将机控制器\project\software\LPDEC-04D01H_V01.01_180521\Project\Debug\Obj\bsp_uart.o.
+Loading object D:\Controller\LPDEC-04D01H_V01.01_180521\Project\Debug\Obj\bsp_uart.o.
               reference :  ?b0
               reference :  ?b1
               reference :  ?b10
@@ -468,20 +478,52 @@ Loading object D:\【利拍档】\一些项目\麻将机控制器\project\software\LPDEC-04D01H
               reference :  ?b3
               reference :  ?b8
               reference :  ?b9
+              reference :  ?dec32_l0_l0
               reference :  ?e0
+              reference :  ?e1
               reference :  ?epilogue_l2
+              reference :  ?epilogue_l2_l3
+              reference :  ?epilogue_l2_w6
+              reference :  ?inc32_l0_l0
+              reference :  ?inc32_l2_l2
+              reference :  ?inc32_l3_l3
+              reference :  ?load24_e0_xsp
+              reference :  ?load24_e1_xsp
+              reference :  ?load32_l0_xsp
+              reference :  ?load32_l3_xsp
+              reference :  ?load32_xsp_l0
+              reference :  ?mov_e0_e2
               reference :  ?mov_e0_e3
+              reference :  ?mov_e1_e2
               reference :  ?mov_e3_e0
+              reference :  ?mov_l0_l2
               reference :  ?mov_l1_l2
+              reference :  ?mov_l1_l3
               reference :  ?mov_l2_l0
+              reference :  ?mov_l3_l2
+              reference :  ?mov_w3_w6
+              reference :  ?move1624_v_x_e0_y
+              reference :  ?neg32_l0_l0
               reference :  ?pop_e3
               reference :  ?pop_w4
+              reference :  ?push_e1
               reference :  ?push_e3
               reference :  ?push_l2
+              reference :  ?push_l3
               reference :  ?push_w4
+              reference :  ?push_w6
+              reference :  ?scmp32_c_l0_l1
+              reference :  ?sdiv32_l0_l0_dl
+              reference :  ?sdiv32_l0_l0_l1
+              reference :  ?smod32_l1_l0_l1
               reference :  ?w0
               reference :  ?w1
+              reference :  ?w2
+              reference :  ?w3
               reference :  ?w4
+              reference :  ?w5
+              reference :  ?w6
+              reference :  ?w7
               reference :  CLK_PeripheralClockConfig
               reference :  GPIO_Init
               reference :  USART_Cmd
@@ -489,11 +531,16 @@ Loading object D:\【利拍档】\一些项目\麻将机控制器\project\software\LPDEC-04D01H
               reference :  USART_ITConfig
               reference :  USART_Init
               reference :  USART_SendData8
+              reference :  strlen
+              definition:  BSP_LOG
+              definition:  BSP_LOG_Value
               definition:  BSP_UART_Transmit
               definition:  Bsp_UART1_Init
+              definition:  Bsp_UART3_Init
               definition:  Uart1_SendData
-              definition:  __iar_cc..tJwXq0JMgK7
-Loading object D:\【利拍档】\一些项目\麻将机控制器\project\software\LPDEC-04D01H_V01.01_180521\Project\Debug\Obj\bsp_var.o.
+              definition:  Uart3_SendData
+              definition:  __iar_cc..HPGoI1UkJ5A
+Loading object D:\Controller\LPDEC-04D01H_V01.01_180521\Project\Debug\Obj\bsp_var.o.
               reference :  ?b0
               reference :  ?b1
               reference :  ?b2
@@ -512,7 +559,7 @@ Loading object D:\【利拍档】\一些项目\麻将机控制器\project\software\LPDEC-04D01H
               reference :  ga_Subtask
               reference :  strcpy
               definition:  Bsp_Var_Init
-Loading object D:\【利拍档】\一些项目\麻将机控制器\project\software\LPDEC-04D01H_V01.01_180521\Project\Debug\Obj\main.o.
+Loading object D:\Controller\LPDEC-04D01H_V01.01_180521\Project\Debug\Obj\main.o.
               reference :  ?b0
               reference :  ?b1
               reference :  ?b2
@@ -528,7 +575,7 @@ Loading object D:\【利拍档】\一些项目\麻将机控制器\project\software\LPDEC-04D01H
               reference :  g_Maintask
               reference :  ga_TaskMapTable
               definition:  main
-Loading object D:\【利拍档】\一些项目\麻将机控制器\project\software\LPDEC-04D01H_V01.01_180521\Project\Debug\Obj\stm8l15x_adc.o.
+Loading object D:\Controller\LPDEC-04D01H_V01.01_180521\Project\Debug\Obj\stm8l15x_adc.o.
               reference :  ?b0
               reference :  ?b1
               reference :  ?b2
@@ -568,9 +615,9 @@ Loading object D:\【利拍档】\一些项目\麻将机控制器\project\software\LPDEC-04D01H
               definition:  ADC_SoftwareStartConv
               definition:  ADC_TempSensorCmd
               definition:  ADC_VrefintCmd
-              definition:  __iar_cc..T17VzCwD2c9
-              definition:  __iar_cc..2Ucq$xYSoJB
-Loading object D:\【利拍档】\一些项目\麻将机控制器\project\software\LPDEC-04D01H_V01.01_180521\Project\Debug\Obj\stm8l15x_aes.o.
+              definition:  __iar_cc..kA7UTPwRRH2
+              definition:  __iar_cc..7xwVN8rwlnD
+Loading object D:\Controller\LPDEC-04D01H_V01.01_180521\Project\Debug\Obj\stm8l15x_aes.o.
               reference :  ?b0
               reference :  ?b1
               reference :  ?b2
@@ -588,7 +635,7 @@ Loading object D:\【利拍档】\一些项目\麻将机控制器\project\software\LPDEC-04D01H
               definition:  AES_ReadSubKey
               definition:  AES_WriteSubData
               definition:  AES_WriteSubKey
-Loading object D:\【利拍档】\一些项目\麻将机控制器\project\software\LPDEC-04D01H_V01.01_180521\Project\Debug\Obj\stm8l15x_beep.o.
+Loading object D:\Controller\LPDEC-04D01H_V01.01_180521\Project\Debug\Obj\stm8l15x_beep.o.
               reference :  ?b0
               reference :  ?b1
               reference :  ?mul16_x_x_w0
@@ -601,7 +648,7 @@ Loading object D:\【利拍档】\一些项目\麻将机控制器\project\software\LPDEC-04D01H
               definition:  BEEP_Init
               definition:  BEEP_LSClockToTIMConnectCmd
               definition:  BEEP_LSICalibrationConfig
-Loading object D:\【利拍档】\一些项目\麻将机控制器\project\software\LPDEC-04D01H_V01.01_180521\Project\Debug\Obj\stm8l15x_clk.o.
+Loading object D:\Controller\LPDEC-04D01H_V01.01_180521\Project\Debug\Obj\stm8l15x_clk.o.
               reference :  ?b0
               reference :  ?b1
               reference :  ?b2
@@ -642,9 +689,9 @@ Loading object D:\【利拍档】\一些项目\麻将机控制器\project\software\LPDEC-04D01H
               definition:  CLK_SYSCLKSourceConfig
               definition:  CLK_SYSCLKSourceSwitchCmd
               definition:  SYSDivFactor
-              definition:  __iar_cc..p7tSLTlz1gA
-              definition:  __iar_cc..dOqFzgME06$
-Loading object D:\【利拍档】\一些项目\麻将机控制器\project\software\LPDEC-04D01H_V01.01_180521\Project\Debug\Obj\stm8l15x_comp.o.
+              definition:  __iar_cc..x_IiKCxfDiB
+              definition:  __iar_cc..FOlWC9YufI3
+Loading object D:\Controller\LPDEC-04D01H_V01.01_180521\Project\Debug\Obj\stm8l15x_comp.o.
               reference :  ?b0
               reference :  ?b1
               reference :  ?b2
@@ -662,7 +709,7 @@ Loading object D:\【利拍档】\一些项目\麻将机控制器\project\software\LPDEC-04D01H
               definition:  COMP_VrefintOutputCmd
               definition:  COMP_VrefintToCOMP1Connect
               definition:  COMP_WindowCmd
-Loading object D:\【利拍档】\一些项目\麻将机控制器\project\software\LPDEC-04D01H_V01.01_180521\Project\Debug\Obj\stm8l15x_dac.o.
+Loading object D:\Controller\LPDEC-04D01H_V01.01_180521\Project\Debug\Obj\stm8l15x_dac.o.
               reference :  ?b0
               reference :  ?b1
               reference :  ?b2
@@ -694,9 +741,9 @@ Loading object D:\【利拍档】\一些项目\麻将机控制器\project\software\LPDEC-04D01H
               definition:  DAC_SetTriangleWaveAmplitude
               definition:  DAC_SoftwareTriggerCmd
               definition:  DAC_WaveGenerationCmd
-              definition:  __iar_cc..XLMQnvxKQ17
-              definition:  __iar_cc..gNsFJmoQK$A
-Loading object D:\【利拍档】\一些项目\麻将机控制器\project\software\LPDEC-04D01H_V01.01_180521\Project\Debug\Obj\stm8l15x_dma.o.
+              definition:  __iar_cc..7YGII21H8S8
+              definition:  __iar_cc..MopHNR3wAwC
+Loading object D:\Controller\LPDEC-04D01H_V01.01_180521\Project\Debug\Obj\stm8l15x_dma.o.
               reference :  ?b0
               reference :  ?b1
               reference :  ?b2
@@ -739,8 +786,8 @@ Loading object D:\【利拍档】\一些项目\麻将机控制器\project\software\LPDEC-04D01H
               definition:  DMA_Init
               definition:  DMA_SetCurrDataCounter
               definition:  DMA_SetTimeOut
-              definition:  __iar_cc..SX_2jJ1q5j_
-Loading object D:\【利拍档】\一些项目\麻将机控制器\project\software\LPDEC-04D01H_V01.01_180521\Project\Debug\Obj\stm8l15x_exti.o.
+              definition:  __iar_cc..IuSM$ZKySZB
+Loading object D:\Controller\LPDEC-04D01H_V01.01_180521\Project\Debug\Obj\stm8l15x_exti.o.
               reference :  ?b0
               reference :  ?b1
               reference :  ?sll16_x_x_a
@@ -756,9 +803,9 @@ Loading object D:\【利拍档】\一些项目\麻将机控制器\project\software\LPDEC-04D01H
               definition:  EXTI_SetHalfPortSelection
               definition:  EXTI_SetPinSensitivity
               definition:  EXTI_SetPortSensitivity
-              definition:  __iar_cc..cW2WUY0E9y$
-              definition:  __iar_cc..IMFT6dCRzt6
-Loading object D:\【利拍档】\一些项目\麻将机控制器\project\software\LPDEC-04D01H_V01.01_180521\Project\Debug\Obj\stm8l15x_flash.o.
+              definition:  __iar_cc..k5fZL2CIRhD
+              definition:  __iar_cc..4EudJzhsCVA
+Loading object D:\Controller\LPDEC-04D01H_V01.01_180521\Project\Debug\Obj\stm8l15x_flash.o.
               reference :  ?add32_l0_l0_l1
               reference :  ?b0
               reference :  ?b1
@@ -807,7 +854,7 @@ Loading object D:\【利拍档】\一些项目\麻将机控制器\project\software\LPDEC-04D01H
               definition:  FLASH_SetProgrammingTime
               definition:  FLASH_Unlock
               definition:  FLASH_WaitForLastOperation
-Loading object D:\【利拍档】\一些项目\麻将机控制器\project\software\LPDEC-04D01H_V01.01_180521\Project\Debug\Obj\stm8l15x_gpio.o.
+Loading object D:\Controller\LPDEC-04D01H_V01.01_180521\Project\Debug\Obj\stm8l15x_gpio.o.
               reference :  ?b0
               reference :  ?b4
               reference :  ?b8
@@ -833,9 +880,9 @@ Loading object D:\【利拍档】\一些项目\麻将机控制器\project\software\LPDEC-04D01H
               definition:  GPIO_ToggleBits
               definition:  GPIO_Write
               definition:  GPIO_WriteBit
-              definition:  __iar_cc..CPGgy$7eR08
-              definition:  __iar_cc..tJwXq0JMgK7
-Loading object D:\【利拍档】\一些项目\麻将机控制器\project\software\LPDEC-04D01H_V01.01_180521\Project\Debug\Obj\stm8l15x_i2c.o.
+              definition:  __iar_cc..6EexzYmd0q9
+              definition:  __iar_cc..HPGoI1UkJ5A
+Loading object D:\Controller\LPDEC-04D01H_V01.01_180521\Project\Debug\Obj\stm8l15x_i2c.o.
               reference :  ?b0
               reference :  ?b1
               reference :  ?b3
@@ -907,17 +954,17 @@ Loading object D:\【利拍档】\一些项目\麻将机控制器\project\software\LPDEC-04D01H
               definition:  I2C_SoftwareResetCmd
               definition:  I2C_StretchClockCmd
               definition:  I2C_TransmitPEC
-              definition:  __iar_cc..L$VMFwewSND
-              definition:  __iar_cc..Oc5vnFEK8N1
-              definition:  __iar_cc..emHrT2CuNQC
-              definition:  __iar_cc..hcy4uqbHi44
-Loading object D:\【利拍档】\一些项目\麻将机控制器\project\software\LPDEC-04D01H_V01.01_180521\Project\Debug\Obj\stm8l15x_irtim.o.
+              definition:  __iar_cc..ZZ$cXmSExJ2
+              definition:  __iar_cc..sCzJVhfgi6B
+              definition:  __iar_cc..FUkcdMi3RPC
+              definition:  __iar_cc..EfFjrn0sEfC
+Loading object D:\Controller\LPDEC-04D01H_V01.01_180521\Project\Debug\Obj\stm8l15x_irtim.o.
               definition:  IRTIM_Cmd
               definition:  IRTIM_DeInit
               definition:  IRTIM_GetHighSinkODStatus
               definition:  IRTIM_GetStatus
               definition:  IRTIM_HighSinkODCmd
-Loading object D:\【利拍档】\一些项目\麻将机控制器\project\software\LPDEC-04D01H_V01.01_180521\Project\Debug\Obj\stm8l15x_it.o.
+Loading object D:\Controller\LPDEC-04D01H_V01.01_180521\Project\Debug\Obj\stm8l15x_it.o.
               reference :  ?b0
               reference :  ?b1
               reference :  ?b2
@@ -944,6 +991,7 @@ Loading object D:\【利拍档】\一些项目\麻将机控制器\project\software\LPDEC-04D01H
               reference :  USART_GetFlagStatus
               reference :  USART_GetITStatus
               reference :  USART_ReceiveData8
+              reference :  Uart3_SendData
               reference :  g_stGPRS_Handler
               definition:  ADC1_COMP_IRQHandler
               definition:  DMA1_CHANNEL0_1_IRQHandler
@@ -1006,7 +1054,7 @@ Loading object D:\【利拍档】\一些项目\麻将机控制器\project\software\LPDEC-04D01H
               definition:  _interrupt_7
               definition:  _interrupt_8
               definition:  _interrupt_9
-Loading object D:\【利拍档】\一些项目\麻将机控制器\project\software\LPDEC-04D01H_V01.01_180521\Project\Debug\Obj\stm8l15x_itc.o.
+Loading object D:\Controller\LPDEC-04D01H_V01.01_180521\Project\Debug\Obj\stm8l15x_itc.o.
               reference :  ?b0
               reference :  ?b1
               reference :  ?b2
@@ -1019,14 +1067,14 @@ Loading object D:\【利拍档】\一些项目\麻将机控制器\project\software\LPDEC-04D01H
               definition:  ITC_GetSoftIntStatus
               definition:  ITC_GetSoftwarePriority
               definition:  ITC_SetSoftwarePriority
-              definition:  __iar_cc..LoWwzrZT0P2
-Loading object D:\【利拍档】\一些项目\麻将机控制器\project\software\LPDEC-04D01H_V01.01_180521\Project\Debug\Obj\stm8l15x_iwdg.o.
+              definition:  __iar_cc..9VyqIrzAXa4
+Loading object D:\Controller\LPDEC-04D01H_V01.01_180521\Project\Debug\Obj\stm8l15x_iwdg.o.
               definition:  IWDG_Enable
               definition:  IWDG_ReloadCounter
               definition:  IWDG_SetPrescaler
               definition:  IWDG_SetReload
               definition:  IWDG_WriteAccessCmd
-Loading object D:\【利拍档】\一些项目\麻将机控制器\project\software\LPDEC-04D01H_V01.01_180521\Project\Debug\Obj\stm8l15x_lcd.o.
+Loading object D:\Controller\LPDEC-04D01H_V01.01_180521\Project\Debug\Obj\stm8l15x_lcd.o.
               reference :  ?b0
               reference :  ?b1
               reference :  ?b2
@@ -1050,10 +1098,10 @@ Loading object D:\【利拍档】\一些项目\麻将机控制器\project\software\LPDEC-04D01H
               definition:  LCD_PortMaskConfig
               definition:  LCD_PulseOnDurationConfig
               definition:  LCD_WriteRAM
-              definition:  __iar_cc..F1EtAztaTg_
-              definition:  __iar_cc..goHsa6quEIB
-              definition:  __iar_cc..AkQp3$MXi6B
-Loading object D:\【利拍档】\一些项目\麻将机控制器\project\software\LPDEC-04D01H_V01.01_180521\Project\Debug\Obj\stm8l15x_pwr.o.
+              definition:  __iar_cc..GJCKfD92Ss7
+              definition:  __iar_cc..4UoOYAO_bp3
+              definition:  __iar_cc..CoIeWMgCF1D
+Loading object D:\Controller\LPDEC-04D01H_V01.01_180521\Project\Debug\Obj\stm8l15x_pwr.o.
               reference :  ?b0
               reference :  ?b1
               definition:  PWR_DeInit
@@ -1066,12 +1114,12 @@ Loading object D:\【利拍档】\一些项目\麻将机控制器\project\software\LPDEC-04D01H
               definition:  PWR_PVDITConfig
               definition:  PWR_PVDLevelConfig
               definition:  PWR_UltraLowPowerCmd
-Loading object D:\【利拍档】\一些项目\麻将机控制器\project\software\LPDEC-04D01H_V01.01_180521\Project\Debug\Obj\stm8l15x_rst.o.
+Loading object D:\Controller\LPDEC-04D01H_V01.01_180521\Project\Debug\Obj\stm8l15x_rst.o.
               reference :  ?b0
               definition:  RST_ClearFlag
               definition:  RST_GPOutputEnable
               definition:  RST_GetFlagStatus
-Loading object D:\【利拍档】\一些项目\麻将机控制器\project\software\LPDEC-04D01H_V01.01_180521\Project\Debug\Obj\stm8l15x_rtc.o.
+Loading object D:\Controller\LPDEC-04D01H_V01.01_180521\Project\Debug\Obj\stm8l15x_rtc.o.
               reference :  ?b0
               reference :  ?b1
               reference :  ?b12
@@ -1154,10 +1202,10 @@ Loading object D:\【利拍档】\一些项目\麻将机控制器\project\software\LPDEC-04D01H
               definition:  RTC_WakeUpClockConfig
               definition:  RTC_WakeUpCmd
               definition:  RTC_WriteProtectionCmd
-              definition:  __iar_cc..ExTlJWcz0e5
-              definition:  __iar_cc..vfXEaxIrpk5
-              definition:  __iar_cc..X3Z37qs2xd_
-Loading object D:\【利拍档】\一些项目\麻将机控制器\project\software\LPDEC-04D01H_V01.01_180521\Project\Debug\Obj\stm8l15x_spi.o.
+              definition:  __iar_cc..OJd6BcF_4F3
+              definition:  __iar_cc..zUMC4FLN_qA
+              definition:  __iar_cc..kI2yXYshp06
+Loading object D:\Controller\LPDEC-04D01H_V01.01_180521\Project\Debug\Obj\stm8l15x_spi.o.
               reference :  ?b0
               reference :  ?b1
               reference :  ?b2
@@ -1199,7 +1247,7 @@ Loading object D:\【利拍档】\一些项目\麻将机控制器\project\software\LPDEC-04D01H
               definition:  SPI_ResetCRC
               definition:  SPI_SendData
               definition:  SPI_TransmitCRC
-Loading object D:\【利拍档】\一些项目\麻将机控制器\project\software\LPDEC-04D01H_V01.01_180521\Project\Debug\Obj\stm8l15x_syscfg.o.
+Loading object D:\Controller\LPDEC-04D01H_V01.01_180521\Project\Debug\Obj\stm8l15x_syscfg.o.
               reference :  ?b0
               reference :  ?b1
               reference :  ?b2
@@ -1212,11 +1260,11 @@ Loading object D:\【利拍档】\一些项目\麻将机控制器\project\software\LPDEC-04D01H
               definition:  SYSCFG_RIIOSwitchConfig
               definition:  SYSCFG_RIResistorConfig
               definition:  SYSCFG_RITIMInputCaptureConfig
-              definition:  __iar_cc..GJqqmiEuHD4
-              definition:  __iar_cc..JJP62KmHDR_
-              definition:  __iar_cc..iSfoKSLCuf0
-              definition:  __iar_cc..ef3yopOEGB6
-Loading object D:\【利拍档】\一些项目\麻将机控制器\project\software\LPDEC-04D01H_V01.01_180521\Project\Debug\Obj\stm8l15x_tim1.o.
+              definition:  __iar_cc..O$Uuynl2MA7
+              definition:  __iar_cc..utv_tpR2KT6
+              definition:  __iar_cc..HlPjAWAgf30
+              definition:  __iar_cc..V1669$yb9v0
+Loading object D:\Controller\LPDEC-04D01H_V01.01_180521\Project\Debug\Obj\stm8l15x_tim1.o.
               reference :  ?b0
               reference :  ?b1
               reference :  ?b2
@@ -1306,10 +1354,10 @@ Loading object D:\【利拍档】\一些项目\麻将机控制器\project\software\LPDEC-04D01H
               definition:  TIM1_TimeBaseInit
               definition:  TIM1_UpdateDisableConfig
               definition:  TIM1_UpdateRequestConfig
-              definition:  __iar_cc..D4ixcVED3U8
-              definition:  __iar_cc..XN9sI4OzCk7
-              definition:  __iar_cc..Gf12DfjNsOA
-Loading object D:\【利拍档】\一些项目\麻将机控制器\project\software\LPDEC-04D01H_V01.01_180521\Project\Debug\Obj\stm8l15x_tim2.o.
+              definition:  __iar_cc..x0rIl8$BqR9
+              definition:  __iar_cc..CSgAQ0lQat4
+              definition:  __iar_cc..TdaQgCfeyLB
+Loading object D:\Controller\LPDEC-04D01H_V01.01_180521\Project\Debug\Obj\stm8l15x_tim2.o.
               reference :  ?b0
               reference :  ?b1
               reference :  ?b2
@@ -1377,7 +1425,7 @@ Loading object D:\【利拍档】\一些项目\麻将机控制器\project\software\LPDEC-04D01H
               definition:  TIM2_TimeBaseInit
               definition:  TIM2_UpdateDisableConfig
               definition:  TIM2_UpdateRequestConfig
-Loading object D:\【利拍档】\一些项目\麻将机控制器\project\software\LPDEC-04D01H_V01.01_180521\Project\Debug\Obj\stm8l15x_tim3.o.
+Loading object D:\Controller\LPDEC-04D01H_V01.01_180521\Project\Debug\Obj\stm8l15x_tim3.o.
               reference :  ?b0
               reference :  ?b1
               reference :  ?b2
@@ -1445,7 +1493,7 @@ Loading object D:\【利拍档】\一些项目\麻将机控制器\project\software\LPDEC-04D01H
               definition:  TIM3_TimeBaseInit
               definition:  TIM3_UpdateDisableConfig
               definition:  TIM3_UpdateRequestConfig
-Loading object D:\【利拍档】\一些项目\麻将机控制器\project\software\LPDEC-04D01H_V01.01_180521\Project\Debug\Obj\stm8l15x_tim4.o.
+Loading object D:\Controller\LPDEC-04D01H_V01.01_180521\Project\Debug\Obj\stm8l15x_tim4.o.
               reference :  ?b0
               reference :  ?b1
               reference :  ?b2
@@ -1473,8 +1521,8 @@ Loading object D:\【利拍档】\一些项目\麻将机控制器\project\software\LPDEC-04D01H
               definition:  TIM4_TimeBaseInit
               definition:  TIM4_UpdateDisableConfig
               definition:  TIM4_UpdateRequestConfig
-              definition:  __iar_cc..SSvMG89bEr1
-Loading object D:\【利拍档】\一些项目\麻将机控制器\project\software\LPDEC-04D01H_V01.01_180521\Project\Debug\Obj\stm8l15x_tim5.o.
+              definition:  __iar_cc..1$w_77$xhl2
+Loading object D:\Controller\LPDEC-04D01H_V01.01_180521\Project\Debug\Obj\stm8l15x_tim5.o.
               reference :  ?b0
               reference :  ?b1
               reference :  ?b2
@@ -1542,7 +1590,7 @@ Loading object D:\【利拍档】\一些项目\麻将机控制器\project\software\LPDEC-04D01H
               definition:  TIM5_TimeBaseInit
               definition:  TIM5_UpdateDisableConfig
               definition:  TIM5_UpdateRequestConfig
-Loading object D:\【利拍档】\一些项目\麻将机控制器\project\software\LPDEC-04D01H_V01.01_180521\Project\Debug\Obj\stm8l15x_usart.o.
+Loading object D:\Controller\LPDEC-04D01H_V01.01_180521\Project\Debug\Obj\stm8l15x_usart.o.
               reference :  ?b0
               reference :  ?b1
               reference :  ?b3
@@ -1598,14 +1646,14 @@ Loading object D:\【利拍档】\一些项目\麻将机控制器\project\software\LPDEC-04D01H
               definition:  USART_SmartCardCmd
               definition:  USART_SmartCardNACKCmd
               definition:  USART_WakeUpConfig
-Loading object D:\【利拍档】\一些项目\麻将机控制器\project\software\LPDEC-04D01H_V01.01_180521\Project\Debug\Obj\stm8l15x_wfe.o.
+Loading object D:\Controller\LPDEC-04D01H_V01.01_180521\Project\Debug\Obj\stm8l15x_wfe.o.
               reference :  ?b0
               reference :  ?b1
               definition:  WFE_DeInit
               definition:  WFE_GetWakeUpSourceEventStatus
               definition:  WFE_WakeUpSourceEventCmd
-              definition:  __iar_cc..dtpzgsfC$a_
-Loading object D:\【利拍档】\一些项目\麻将机控制器\project\software\LPDEC-04D01H_V01.01_180521\Project\Debug\Obj\stm8l15x_wwdg.o.
+              definition:  __iar_cc..extiWvO9PM9
+Loading object D:\Controller\LPDEC-04D01H_V01.01_180521\Project\Debug\Obj\stm8l15x_wwdg.o.
               reference :  ?b0
               reference :  ?b1
               definition:  WWDG_Enable
@@ -1614,7 +1662,7 @@ Loading object D:\【利拍档】\一些项目\麻将机控制器\project\software\LPDEC-04D01H
               definition:  WWDG_SWReset
               definition:  WWDG_SetCounter
               definition:  WWDG_SetWindowValue
-Loading object D:\【利拍档】\一些项目\麻将机控制器\project\software\LPDEC-04D01H_V01.01_180521\Project\Debug\Obj\task_common.o.
+Loading object D:\Controller\LPDEC-04D01H_V01.01_180521\Project\Debug\Obj\task_common.o.
               reference :  COMM_Task
               reference :  Contrl_Task
               reference :  Interaction_Task
@@ -2275,73 +2323,73 @@ Selecting member __dbg_xxdwrite.o(dbgstm8mld.a) to define __dwrite.
               reference :  __DebugBreak
               definition:  __dwrite
 Resolving duplicate symbol definitions
-  Picking _interrupt_15 [s21 D:\【利拍档】\一些项目\麻将机控制器\project\software\LPDEC-04D01H_V01.01_180521\Project\Debug\Obj\stm8l15x_it.o]
+  Picking _interrupt_15 [s21 D:\Controller\LPDEC-04D01H_V01.01_180521\Project\Debug\Obj\stm8l15x_it.o]
     Suppressing _interrupt_15 [s6 interrupt.o(dlstm8mln.a)]
-  Picking _interrupt_27 [s34 D:\【利拍档】\一些项目\麻将机控制器\project\software\LPDEC-04D01H_V01.01_180521\Project\Debug\Obj\stm8l15x_it.o]
+  Picking _interrupt_27 [s34 D:\Controller\LPDEC-04D01H_V01.01_180521\Project\Debug\Obj\stm8l15x_it.o]
     Suppressing _interrupt_27 [s6 interrupt.o(dlstm8mln.a)]
-  Picking _interrupt_8 [s14 D:\【利拍档】\一些项目\麻将机控制器\project\software\LPDEC-04D01H_V01.01_180521\Project\Debug\Obj\stm8l15x_it.o]
+  Picking _interrupt_8 [s14 D:\Controller\LPDEC-04D01H_V01.01_180521\Project\Debug\Obj\stm8l15x_it.o]
     Suppressing _interrupt_8 [s6 interrupt.o(dlstm8mln.a)]
-  Picking _interrupt_16 [s22 D:\【利拍档】\一些项目\麻将机控制器\project\software\LPDEC-04D01H_V01.01_180521\Project\Debug\Obj\stm8l15x_it.o]
+  Picking _interrupt_16 [s22 D:\Controller\LPDEC-04D01H_V01.01_180521\Project\Debug\Obj\stm8l15x_it.o]
     Suppressing _interrupt_16 [s6 interrupt.o(dlstm8mln.a)]
-  Picking _interrupt_26 [s33 D:\【利拍档】\一些项目\麻将机控制器\project\software\LPDEC-04D01H_V01.01_180521\Project\Debug\Obj\stm8l15x_it.o]
+  Picking _interrupt_26 [s33 D:\Controller\LPDEC-04D01H_V01.01_180521\Project\Debug\Obj\stm8l15x_it.o]
     Suppressing _interrupt_26 [s6 interrupt.o(dlstm8mln.a)]
-  Picking _interrupt_7 [s13 D:\【利拍档】\一些项目\麻将机控制器\project\software\LPDEC-04D01H_V01.01_180521\Project\Debug\Obj\stm8l15x_it.o]
+  Picking _interrupt_7 [s13 D:\Controller\LPDEC-04D01H_V01.01_180521\Project\Debug\Obj\stm8l15x_it.o]
     Suppressing _interrupt_7 [s6 interrupt.o(dlstm8mln.a)]
-  Picking _interrupt_17 [s23 D:\【利拍档】\一些项目\麻将机控制器\project\software\LPDEC-04D01H_V01.01_180521\Project\Debug\Obj\stm8l15x_it.o]
+  Picking _interrupt_17 [s23 D:\Controller\LPDEC-04D01H_V01.01_180521\Project\Debug\Obj\stm8l15x_it.o]
     Suppressing _interrupt_17 [s6 interrupt.o(dlstm8mln.a)]
-  Picking _interrupt_21 [s27 D:\【利拍档】\一些项目\麻将机控制器\project\software\LPDEC-04D01H_V01.01_180521\Project\Debug\Obj\stm8l15x_it.o]
+  Picking _interrupt_21 [s27 D:\Controller\LPDEC-04D01H_V01.01_180521\Project\Debug\Obj\stm8l15x_it.o]
     Suppressing _interrupt_21 [s6 interrupt.o(dlstm8mln.a)]
-  Picking _interrupt_29 [s36 D:\【利拍档】\一些项目\麻将机控制器\project\software\LPDEC-04D01H_V01.01_180521\Project\Debug\Obj\stm8l15x_it.o]
+  Picking _interrupt_29 [s36 D:\Controller\LPDEC-04D01H_V01.01_180521\Project\Debug\Obj\stm8l15x_it.o]
     Suppressing _interrupt_29 [s6 interrupt.o(dlstm8mln.a)]
-  Picking _interrupt_6 [s12 D:\【利拍档】\一些项目\麻将机控制器\project\software\LPDEC-04D01H_V01.01_180521\Project\Debug\Obj\stm8l15x_it.o]
+  Picking _interrupt_6 [s12 D:\Controller\LPDEC-04D01H_V01.01_180521\Project\Debug\Obj\stm8l15x_it.o]
     Suppressing _interrupt_6 [s6 interrupt.o(dlstm8mln.a)]
-  Picking _interrupt_10 [s16 D:\【利拍档】\一些项目\麻将机控制器\project\software\LPDEC-04D01H_V01.01_180521\Project\Debug\Obj\stm8l15x_it.o]
+  Picking _interrupt_10 [s16 D:\Controller\LPDEC-04D01H_V01.01_180521\Project\Debug\Obj\stm8l15x_it.o]
     Suppressing _interrupt_10 [s6 interrupt.o(dlstm8mln.a)]
-  Picking _interrupt_18 [s24 D:\【利拍档】\一些项目\麻将机控制器\project\software\LPDEC-04D01H_V01.01_180521\Project\Debug\Obj\stm8l15x_it.o]
+  Picking _interrupt_18 [s24 D:\Controller\LPDEC-04D01H_V01.01_180521\Project\Debug\Obj\stm8l15x_it.o]
     Suppressing _interrupt_18 [s6 interrupt.o(dlstm8mln.a)]
-  Picking _interrupt_20 [s26 D:\【利拍档】\一些项目\麻将机控制器\project\software\LPDEC-04D01H_V01.01_180521\Project\Debug\Obj\stm8l15x_it.o]
+  Picking _interrupt_20 [s26 D:\Controller\LPDEC-04D01H_V01.01_180521\Project\Debug\Obj\stm8l15x_it.o]
     Suppressing _interrupt_20 [s6 interrupt.o(dlstm8mln.a)]
-  Picking _interrupt_28 [s35 D:\【利拍档】\一些项目\麻将机控制器\project\software\LPDEC-04D01H_V01.01_180521\Project\Debug\Obj\stm8l15x_it.o]
+  Picking _interrupt_28 [s35 D:\Controller\LPDEC-04D01H_V01.01_180521\Project\Debug\Obj\stm8l15x_it.o]
     Suppressing _interrupt_28 [s6 interrupt.o(dlstm8mln.a)]
-  Picking _interrupt_30 [s37 D:\【利拍档】\一些项目\麻将机控制器\project\software\LPDEC-04D01H_V01.01_180521\Project\Debug\Obj\stm8l15x_it.o]
+  Picking _interrupt_30 [s37 D:\Controller\LPDEC-04D01H_V01.01_180521\Project\Debug\Obj\stm8l15x_it.o]
     Suppressing _interrupt_30 [s6 interrupt.o(dlstm8mln.a)]
-  Picking _interrupt_5 [s11 D:\【利拍档】\一些项目\麻将机控制器\project\software\LPDEC-04D01H_V01.01_180521\Project\Debug\Obj\stm8l15x_it.o]
+  Picking _interrupt_5 [s11 D:\Controller\LPDEC-04D01H_V01.01_180521\Project\Debug\Obj\stm8l15x_it.o]
     Suppressing _interrupt_5 [s6 interrupt.o(dlstm8mln.a)]
-  Picking _interrupt_11 [s17 D:\【利拍档】\一些项目\麻将机控制器\project\software\LPDEC-04D01H_V01.01_180521\Project\Debug\Obj\stm8l15x_it.o]
+  Picking _interrupt_11 [s17 D:\Controller\LPDEC-04D01H_V01.01_180521\Project\Debug\Obj\stm8l15x_it.o]
     Suppressing _interrupt_11 [s6 interrupt.o(dlstm8mln.a)]
-  Picking _interrupt_19 [s25 D:\【利拍档】\一些项目\麻将机控制器\project\software\LPDEC-04D01H_V01.01_180521\Project\Debug\Obj\stm8l15x_it.o]
+  Picking _interrupt_19 [s25 D:\Controller\LPDEC-04D01H_V01.01_180521\Project\Debug\Obj\stm8l15x_it.o]
     Suppressing _interrupt_19 [s6 interrupt.o(dlstm8mln.a)]
-  Picking _interrupt_23 [s30 D:\【利拍档】\一些项目\麻将机控制器\project\software\LPDEC-04D01H_V01.01_180521\Project\Debug\Obj\stm8l15x_it.o]
+  Picking _interrupt_23 [s30 D:\Controller\LPDEC-04D01H_V01.01_180521\Project\Debug\Obj\stm8l15x_it.o]
     Suppressing _interrupt_23 [s6 interrupt.o(dlstm8mln.a)]
-  Picking _interrupt_31 [s38 D:\【利拍档】\一些项目\麻将机控制器\project\software\LPDEC-04D01H_V01.01_180521\Project\Debug\Obj\stm8l15x_it.o]
+  Picking _interrupt_31 [s38 D:\Controller\LPDEC-04D01H_V01.01_180521\Project\Debug\Obj\stm8l15x_it.o]
     Suppressing _interrupt_31 [s6 interrupt.o(dlstm8mln.a)]
-  Picking _interrupt_4 [s10 D:\【利拍档】\一些项目\麻将机控制器\project\software\LPDEC-04D01H_V01.01_180521\Project\Debug\Obj\stm8l15x_it.o]
+  Picking _interrupt_4 [s10 D:\Controller\LPDEC-04D01H_V01.01_180521\Project\Debug\Obj\stm8l15x_it.o]
     Suppressing _interrupt_4 [s6 interrupt.o(dlstm8mln.a)]
-  Picking _interrupt_12 [s18 D:\【利拍档】\一些项目\麻将机控制器\project\software\LPDEC-04D01H_V01.01_180521\Project\Debug\Obj\stm8l15x_it.o]
+  Picking _interrupt_12 [s18 D:\Controller\LPDEC-04D01H_V01.01_180521\Project\Debug\Obj\stm8l15x_it.o]
     Suppressing _interrupt_12 [s6 interrupt.o(dlstm8mln.a)]
-  Picking _interrupt_22 [s29 D:\【利拍档】\一些项目\麻将机控制器\project\software\LPDEC-04D01H_V01.01_180521\Project\Debug\Obj\stm8l15x_it.o]
+  Picking _interrupt_22 [s29 D:\Controller\LPDEC-04D01H_V01.01_180521\Project\Debug\Obj\stm8l15x_it.o]
     Suppressing _interrupt_22 [s6 interrupt.o(dlstm8mln.a)]
-  Picking _interrupt_3 [s9 D:\【利拍档】\一些项目\麻将机控制器\project\software\LPDEC-04D01H_V01.01_180521\Project\Debug\Obj\stm8l15x_it.o]
+  Picking _interrupt_3 [s9 D:\Controller\LPDEC-04D01H_V01.01_180521\Project\Debug\Obj\stm8l15x_it.o]
     Suppressing _interrupt_3 [s6 interrupt.o(dlstm8mln.a)]
-  Picking _interrupt_13 [s19 D:\【利拍档】\一些项目\麻将机控制器\project\software\LPDEC-04D01H_V01.01_180521\Project\Debug\Obj\stm8l15x_it.o]
+  Picking _interrupt_13 [s19 D:\Controller\LPDEC-04D01H_V01.01_180521\Project\Debug\Obj\stm8l15x_it.o]
     Suppressing _interrupt_13 [s6 interrupt.o(dlstm8mln.a)]
-  Picking _interrupt_25 [s32 D:\【利拍档】\一些项目\麻将机控制器\project\software\LPDEC-04D01H_V01.01_180521\Project\Debug\Obj\stm8l15x_it.o]
+  Picking _interrupt_25 [s32 D:\Controller\LPDEC-04D01H_V01.01_180521\Project\Debug\Obj\stm8l15x_it.o]
     Suppressing _interrupt_25 [s6 interrupt.o(dlstm8mln.a)]
-  Picking _interrupt_1 [s8 D:\【利拍档】\一些项目\麻将机控制器\project\software\LPDEC-04D01H_V01.01_180521\Project\Debug\Obj\stm8l15x_it.o]
+  Picking _interrupt_1 [s8 D:\Controller\LPDEC-04D01H_V01.01_180521\Project\Debug\Obj\stm8l15x_it.o]
     Suppressing _interrupt_1 [s6 interrupt.o(dlstm8mln.a)]
-  Picking _interrupt_14 [s20 D:\【利拍档】\一些项目\麻将机控制器\project\software\LPDEC-04D01H_V01.01_180521\Project\Debug\Obj\stm8l15x_it.o]
+  Picking _interrupt_14 [s20 D:\Controller\LPDEC-04D01H_V01.01_180521\Project\Debug\Obj\stm8l15x_it.o]
     Suppressing _interrupt_14 [s6 interrupt.o(dlstm8mln.a)]
-  Picking _interrupt_24 [s31 D:\【利拍档】\一些项目\麻将机控制器\project\software\LPDEC-04D01H_V01.01_180521\Project\Debug\Obj\stm8l15x_it.o]
+  Picking _interrupt_24 [s31 D:\Controller\LPDEC-04D01H_V01.01_180521\Project\Debug\Obj\stm8l15x_it.o]
     Suppressing _interrupt_24 [s6 interrupt.o(dlstm8mln.a)]
-  Picking _interrupt_9 [s15 D:\【利拍档】\一些项目\麻将机控制器\project\software\LPDEC-04D01H_V01.01_180521\Project\Debug\Obj\stm8l15x_it.o]
+  Picking _interrupt_9 [s15 D:\Controller\LPDEC-04D01H_V01.01_180521\Project\Debug\Obj\stm8l15x_it.o]
     Suppressing _interrupt_9 [s6 interrupt.o(dlstm8mln.a)]
-  Picking __iar_cc..tJwXq0JMgK7 [s84 D:\【利拍档】\一些项目\麻将机控制器\project\software\LPDEC-04D01H_V01.01_180521\Project\Debug\Obj\stm8l15x_gpio.o]
-    Suppressing __iar_cc..tJwXq0JMgK7 [s219 D:\【利拍档】\一些项目\麻将机控制器\project\software\LPDEC-04D01H_V01.01_180521\Project\Debug\Obj\app_comm_g510.o]
-    Suppressing __iar_cc..tJwXq0JMgK7 [s39 D:\【利拍档】\一些项目\麻将机控制器\project\software\LPDEC-04D01H_V01.01_180521\Project\Debug\Obj\bsp_gpio.o]
-    Suppressing __iar_cc..tJwXq0JMgK7 [s33 D:\【利拍档】\一些项目\麻将机控制器\project\software\LPDEC-04D01H_V01.01_180521\Project\Debug\Obj\bsp_gprs.o]
-    Suppressing __iar_cc..tJwXq0JMgK7 [s34 D:\【利拍档】\一些项目\麻将机控制器\project\software\LPDEC-04D01H_V01.01_180521\Project\Debug\Obj\bsp_key.o]
-    Suppressing __iar_cc..tJwXq0JMgK7 [s44 D:\【利拍档】\一些项目\麻将机控制器\project\software\LPDEC-04D01H_V01.01_180521\Project\Debug\Obj\bsp_led.o]
-    Suppressing __iar_cc..tJwXq0JMgK7 [s140 D:\【利拍档】\一些项目\麻将机控制器\project\software\LPDEC-04D01H_V01.01_180521\Project\Debug\Obj\bsp_mem.o]
-    Suppressing __iar_cc..tJwXq0JMgK7 [s28 D:\【利拍档】\一些项目\麻将机控制器\project\software\LPDEC-04D01H_V01.01_180521\Project\Debug\Obj\bsp_uart.o]
-  Picking strstr [s9 D:\【利拍档】\一些项目\麻将机控制器\project\software\LPDEC-04D01H_V01.01_180521\Project\Debug\Obj\app_comm_g510.o]
+  Picking strstr [s9 D:\Controller\LPDEC-04D01H_V01.01_180521\Project\Debug\Obj\app_comm_g510.o]
     Suppressing strstr [s7 strstr.o(dlstm8mln.a)]
+  Picking __iar_cc..HPGoI1UkJ5A [s84 D:\Controller\LPDEC-04D01H_V01.01_180521\Project\Debug\Obj\stm8l15x_gpio.o]
+    Suppressing __iar_cc..HPGoI1UkJ5A [s246 D:\Controller\LPDEC-04D01H_V01.01_180521\Project\Debug\Obj\app_comm_g510.o]
+    Suppressing __iar_cc..HPGoI1UkJ5A [s39 D:\Controller\LPDEC-04D01H_V01.01_180521\Project\Debug\Obj\bsp_gpio.o]
+    Suppressing __iar_cc..HPGoI1UkJ5A [s33 D:\Controller\LPDEC-04D01H_V01.01_180521\Project\Debug\Obj\bsp_gprs.o]
+    Suppressing __iar_cc..HPGoI1UkJ5A [s34 D:\Controller\LPDEC-04D01H_V01.01_180521\Project\Debug\Obj\bsp_key.o]
+    Suppressing __iar_cc..HPGoI1UkJ5A [s44 D:\Controller\LPDEC-04D01H_V01.01_180521\Project\Debug\Obj\bsp_led.o]
+    Suppressing __iar_cc..HPGoI1UkJ5A [s145 D:\Controller\LPDEC-04D01H_V01.01_180521\Project\Debug\Obj\bsp_mem.o]
+    Suppressing __iar_cc..HPGoI1UkJ5A [s59 D:\Controller\LPDEC-04D01H_V01.01_180521\Project\Debug\Obj\bsp_uart.o]
