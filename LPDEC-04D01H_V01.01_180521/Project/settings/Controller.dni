@@ -1,0 +1,43 @@
+[Stack]
+FillEnabled=0
+OverflowWarningsEnabled=1
+WarningThreshold=90
+SpWarningsEnabled=1
+WarnLogOnly=1
+UseTrigger=1
+TriggerName=main
+LimitSize=0
+ByteLimit=50
+[DebugChecksum]
+Checksum=1691916373
+[CallStack]
+ShowArgs=0
+[Disassembly]
+MixedMode=1
+[watch_formats]
+Fmt0={W}0:aa	4	0
+[DataSample]
+LogEnabled=0
+GraphEnabled=0
+ShowTimeLog=1
+ShowTimeSum=1
+[Log file]
+LoggingEnabled=_ 0
+LogFile=_ ""
+Category=_ 0
+[TermIOLog]
+LoggingEnabled=_ 0
+LogFile=_ ""
+[Breakpoints]
+Bp0=_ "STD_CODE" "{$PROJ_DIR$}.1064.4" 0 0 0 0 "" 0 ""
+Bp1=_ "STD_CODE" "{$PROJ_DIR$}.934.6" 0 0 0 0 "" 0 ""
+Bp2=_ "STD_CODE" "{$PROJ_DIR$}.892.5" 0 0 0 0 "" 0 ""
+Bp3=_ "STD_CODE" "{$PROJ_DIR$\..\Code\1 System\stm8l15x_it.c}.141.1" 1 0 0 0 "" 0 ""
+Bp4=_ "STD_CODE" "{$PROJ_DIR$}.959.14" 0 0 0 0 "" 0 ""
+Bp5=_ "STD_CODE" "{$PROJ_DIR$\..\Code\3 App\app_comm_g510.c}.589.24" 1 0 0 0 "" 0 ""
+Count=6
+[Aliases]
+A0=_ "D:\【利拍档】\一些项目\麻将机控制器\project\LPDEC-04D01H_V01.01_180521\Code\5 Libraries\STM8L15x_StdPeriph_Driver\src\stm8l15x_clk.c" ""
+A1=_ "D:\【利拍档】\一些项目\麻将机控制器\project\LPDEC-04D01H_V01.01_180521\Code\5 Libraries\STM8L15x_StdPeriph_Driver\src\stm8l15x_usart.c" ""
+Count=2
+SuppressDialog=0

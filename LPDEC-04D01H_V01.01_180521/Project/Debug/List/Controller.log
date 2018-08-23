@@ -1,0 +1,2347 @@
+Loading object D:\【利拍档】\一些项目\麻将机控制器\project\software\LPDEC-04D01H_V01.01_180521\Project\Debug\Obj\1 task_safeguard.o.
+              reference :  ?b0
+              reference :  ?b1
+              reference :  ?b2
+              reference :  ?b3
+              reference :  ?b8
+              reference :  ?e0
+              reference :  ?w1
+              reference :  clear_task
+              reference :  ga_Subtask
+              reference :  ga_TaskMapTable
+              definition:  SG_Task
+              definition:  voltage
+Loading object D:\【利拍档】\一些项目\麻将机控制器\project\software\LPDEC-04D01H_V01.01_180521\Project\Debug\Obj\2 task_control.o.
+              reference :  ?b0
+              reference :  ?b1
+              reference :  ?b2
+              reference :  ?b3
+              reference :  ?b8
+              reference :  ?e0
+              reference :  ?w1
+              reference :  clear_task
+              reference :  ga_Subtask
+              reference :  ga_TaskMapTable
+              definition:  Contrl_Task
+Loading object D:\【利拍档】\一些项目\麻将机控制器\project\software\LPDEC-04D01H_V01.01_180521\Project\Debug\Obj\3 task_mem_read.o.
+              reference :  ?b0
+              reference :  ?b1
+              reference :  ?b2
+              reference :  ?b3
+              reference :  ?b8
+              reference :  ?e0
+              reference :  ?w1
+              reference :  clear_task
+              reference :  ga_Subtask
+              reference :  ga_TaskMapTable
+              definition:  MEM_Read_Task
+Loading object D:\【利拍档】\一些项目\麻将机控制器\project\software\LPDEC-04D01H_V01.01_180521\Project\Debug\Obj\4 task_mem_write.o.
+              reference :  ?b0
+              reference :  ?b1
+              reference :  ?b2
+              reference :  ?b3
+              reference :  ?b8
+              reference :  ?b9
+              reference :  ?e0
+              reference :  ?epilogue_w4
+              reference :  ?push_w4
+              reference :  ?w1
+              reference :  Store_Dynamic_Data
+              reference :  Store_Solid_Romdata
+              reference :  clear_task
+              reference :  ga_Subtask
+              reference :  ga_TaskMapTable
+              definition:  MEM_Write_Task
+Loading object D:\【利拍档】\一些项目\麻将机控制器\project\software\LPDEC-04D01H_V01.01_180521\Project\Debug\Obj\5 task_measure.o.
+              reference :  ?b0
+              reference :  ?b1
+              reference :  ?b2
+              reference :  ?b3
+              reference :  ?b8
+              reference :  ?e0
+              reference :  ?w1
+              reference :  clear_task
+              reference :  ga_Subtask
+              reference :  ga_TaskMapTable
+              definition:  Measure_Task
+Loading object D:\【利拍档】\一些项目\麻将机控制器\project\software\LPDEC-04D01H_V01.01_180521\Project\Debug\Obj\6 task_communicate.o.
+              reference :  ?b0
+              reference :  ?b1
+              reference :  ?b2
+              reference :  ?b3
+              reference :  ?b8
+              reference :  ?b9
+              reference :  ?e0
+              reference :  ?epilogue_w4
+              reference :  ?push_w4
+              reference :  ?w1
+              reference :  APP_SuTask_DecodeProc
+              reference :  APP_SubTask_CmdProc
+              reference :  APP_SubTask_StateProc
+              reference :  clear_task
+              reference :  ga_Subtask
+              reference :  ga_TaskMapTable
+              definition:  COMM_Task
+Loading object D:\【利拍档】\一些项目\麻将机控制器\project\software\LPDEC-04D01H_V01.01_180521\Project\Debug\Obj\7 task_net_connect.o.
+              reference :  ?b0
+              reference :  ?b1
+              reference :  ?b2
+              reference :  ?b3
+              reference :  ?b8
+              reference :  ?e0
+              reference :  ?w1
+              reference :  clear_task
+              reference :  ga_Subtask
+              reference :  ga_TaskMapTable
+              definition:  Net_Conn_Task
+Loading object D:\【利拍档】\一些项目\麻将机控制器\project\software\LPDEC-04D01H_V01.01_180521\Project\Debug\Obj\8 task_interaction.o.
+              reference :  ?b0
+              reference :  ?b1
+              reference :  ?b2
+              reference :  ?b3
+              reference :  ?b8
+              reference :  ?b9
+              reference :  ?e0
+              reference :  ?epilogue_w4
+              reference :  ?push_w4
+              reference :  ?w1
+              reference :  Key_Tips
+              reference :  clear_task
+              reference :  ga_Subtask
+              reference :  ga_TaskMapTable
+              definition:  Interaction_Task
+Loading object D:\【利拍档】\一些项目\麻将机控制器\project\software\LPDEC-04D01H_V01.01_180521\Project\Debug\Obj\app_clock.o.
+Loading object D:\【利拍档】\一些项目\麻将机控制器\project\software\LPDEC-04D01H_V01.01_180521\Project\Debug\Obj\app_comm_g510.o.
+              reference :  ?b0
+              reference :  ?b1
+              reference :  ?b12
+              reference :  ?b13
+              reference :  ?b14
+              reference :  ?b15
+              reference :  ?b2
+              reference :  ?b3
+              reference :  ?b4
+              reference :  ?b5
+              reference :  ?b6
+              reference :  ?b7
+              reference :  ?b8
+              reference :  ?b9
+              reference :  ?e0
+              reference :  ?e1
+              reference :  ?e2
+              reference :  ?e3
+              reference :  ?epilogue_l2
+              reference :  ?epilogue_l2_l3
+              reference :  ?epilogue_w4
+              reference :  ?load24_e0_xsp
+              reference :  ?load24_e1_xsp
+              reference :  ?load24_xsp_e0
+              reference :  ?load32_0x_l0
+              reference :  ?load32_l0_0x
+              reference :  ?mov_e0_e1
+              reference :  ?mov_e0_e2
+              reference :  ?mov_e0_e3
+              reference :  ?mov_e1_e0
+              reference :  ?mov_e1_e2
+              reference :  ?mov_e1_e3
+              reference :  ?mov_e2_e0
+              reference :  ?mov_e2_e1
+              reference :  ?mov_e2_e3
+              reference :  ?mov_e3_e0
+              reference :  ?mov_e3_e2
+              reference :  ?mov_w3_w4
+              reference :  ?move1624_v_x_e0_y
+              reference :  ?mul16_x_x_w0
+              reference :  ?pop_e2
+              reference :  ?pop_e3
+              reference :  ?push_e0
+              reference :  ?push_e2
+              reference :  ?push_e3
+              reference :  ?push_l2
+              reference :  ?push_l3
+              reference :  ?push_w4
+              reference :  ?sll16_x_x_a
+              reference :  ?sub32_l0_l0_l1
+              reference :  ?ucmp24_c_0x_e0
+              reference :  ?ucmp32_c_l0_l1
+              reference :  ?w0
+              reference :  ?w1
+              reference :  ?w2
+              reference :  ?w3
+              reference :  ?w4
+              reference :  ?w5
+              reference :  ?w7
+              reference :  Ascii_To_Hex
+              reference :  BSP_UART_Transmit
+              reference :  Check_Strstr
+              reference :  CntLeadZeros
+              reference :  DecimalToASCII
+              reference :  GPIO_ReadInputDataBit
+              reference :  GPIO_ResetBits
+              reference :  GPIO_SetBits
+              reference :  Get_Comma
+              reference :  Get_Uint_Data
+              reference :  Get_Xor
+              reference :  LED_Status
+              reference :  Set_Task
+              reference :  Task_Flag_Struct
+              reference :  Xor_Check
+              reference :  __iar_Strstr
+              reference :  memcpy
+              reference :  memset
+              reference :  strcpy
+              reference :  strlen
+              definition:  APP_COMM_Init
+              definition:  APP_GPRS_TimeProc
+              definition:  APP_SuTask_DecodeProc
+              definition:  APP_SubTask_CmdProc
+              definition:  APP_SubTask_StateProc
+              definition:  AT_CmdTbl
+              definition:  PacketHead
+              definition:  g_stGPRS_Handler
+              definition:  strstr
+              definition:  __iar_cc.._Pzus3vzqZB
+              definition:  __iar_cc..tJwXq0JMgK7
+Loading object D:\【利拍档】\一些项目\麻将机控制器\project\software\LPDEC-04D01H_V01.01_180521\Project\Debug\Obj\app_comm_pc.o.
+Loading object D:\【利拍档】\一些项目\麻将机控制器\project\software\LPDEC-04D01H_V01.01_180521\Project\Debug\Obj\app_common.o.
+              reference :  ?b0
+              reference :  ?b1
+              reference :  ?b10
+              reference :  ?b11
+              reference :  ?b12
+              reference :  ?b13
+              reference :  ?b14
+              reference :  ?b2
+              reference :  ?b3
+              reference :  ?b4
+              reference :  ?b8
+              reference :  ?b9
+              reference :  ?e0
+              reference :  ?e1
+              reference :  ?e2
+              reference :  ?epilogue_l2
+              reference :  ?epilogue_l2_w6
+              reference :  ?epilogue_w4
+              reference :  ?load24_e0_xsp
+              reference :  ?mov_e0_e1
+              reference :  ?mov_e0_e2
+              reference :  ?mov_e1_e0
+              reference :  ?mov_e1_e3
+              reference :  ?mov_e2_e0
+              reference :  ?mov_e2_e1
+              reference :  ?mov_e3_e1
+              reference :  ?pop_e2
+              reference :  ?pop_e3
+              reference :  ?pop_w6
+              reference :  ?push_e0
+              reference :  ?push_e2
+              reference :  ?push_e3
+              reference :  ?push_l2
+              reference :  ?push_w4
+              reference :  ?push_w6
+              reference :  ?sll16_x_x_a
+              reference :  ?w0
+              reference :  ?w1
+              reference :  ?w2
+              reference :  ?w3
+              reference :  ?w4
+              reference :  ?w5
+              reference :  ?w6
+              reference :  atoi
+              reference :  g_Maintask
+              reference :  ga_Subtask
+              reference :  strlen
+              definition:  Ascii_To_Hex
+              definition:  BCD_2_Data8
+              definition:  Check_Strstr
+              definition:  Clr_Task
+              definition:  CntLeadZeros
+              definition:  Data16_2_BCD
+              definition:  Data8_2_BCD
+              definition:  DecimalToASCII
+              definition:  Get_Comma
+              definition:  Get_Uint_Data
+              definition:  Get_Xor
+              definition:  Set_Task
+              definition:  Xor_Check
+              definition:  clear_task
+Loading object D:\【利拍档】\一些项目\麻将机控制器\project\software\LPDEC-04D01H_V01.01_180521\Project\Debug\Obj\bsp_common.o.
+              reference :  ?w0
+              reference :  ?w1
+              reference :  APP_COMM_Init
+              reference :  Bsp_GPIO_Init
+              reference :  Bsp_Rcc_Init
+              reference :  Bsp_Tim2_Init
+              reference :  Bsp_Tim3_Delay_Init
+              reference :  Bsp_UART1_Init
+              reference :  Bsp_Var_Init
+              reference :  Dynamic_Init
+              reference :  IWDG_Init
+              reference :  Solid_Romdata_Init
+              definition:  Bsp_Peripheral_Init
+              definition:  Com_Bsp_Init
+              definition:  Task_Flag_Struct
+Loading object D:\【利拍档】\一些项目\麻将机控制器\project\software\LPDEC-04D01H_V01.01_180521\Project\Debug\Obj\bsp_gpio.o.
+              reference :  ?b0
+              reference :  ?b1
+              reference :  ?b2
+              reference :  ?b3
+              reference :  EXTI_SetPinSensitivity
+              reference :  GPIO_Init
+              definition:  Bsp_GPIO_Init
+              definition:  __iar_cc..tJwXq0JMgK7
+Loading object D:\【利拍档】\一些项目\麻将机控制器\project\software\LPDEC-04D01H_V01.01_180521\Project\Debug\Obj\bsp_gprs.o.
+              reference :  ?b1
+              reference :  ?b2
+              reference :  ?b3
+              reference :  Bsp_Tim3_Delay_Ms
+              reference :  GPIO_ResetBits
+              reference :  GPIO_SetBits
+              definition:  Bsp_G510_Init
+              definition:  G510_Buck_EN
+              definition:  G510_Power_OFF
+              definition:  G510_Power_ON
+              definition:  __iar_cc..tJwXq0JMgK7
+Loading object D:\【利拍档】\一些项目\麻将机控制器\project\software\LPDEC-04D01H_V01.01_180521\Project\Debug\Obj\bsp_iwdg.o.
+              reference :  IWDG_Enable
+              reference :  IWDG_ReloadCounter
+              reference :  IWDG_SetPrescaler
+              reference :  IWDG_SetReload
+              reference :  IWDG_WriteAccessCmd
+              definition:  Feed_The_IWDog
+              definition:  IWDG_Init
+Loading object D:\【利拍档】\一些项目\麻将机控制器\project\software\LPDEC-04D01H_V01.01_180521\Project\Debug\Obj\bsp_key.o.
+              reference :  ?b1
+              reference :  ?b2
+              reference :  ?b3
+              reference :  ?b8
+              reference :  ?epilogue_l2
+              reference :  ?mov_e0_e2
+              reference :  ?mov_e2_e0
+              reference :  ?push_l2
+              reference :  Bsp_Tim3_Delay_Ms
+              reference :  GPIO_ReadInputDataBit
+              reference :  KEY_LED_Struct
+              reference :  g_stGPRS_Handler
+              definition:  Bsp_Key_Tim
+              definition:  KEY_Struct
+              definition:  Key_Tips
+              definition:  __iar_cc..tJwXq0JMgK7
+Loading object D:\【利拍档】\一些项目\麻将机控制器\project\software\LPDEC-04D01H_V01.01_180521\Project\Debug\Obj\bsp_led.o.
+              reference :  ?b1
+              reference :  ?b2
+              reference :  ?b3
+              reference :  ?b8
+              reference :  ?b9
+              reference :  ?epilogue_w4
+              reference :  ?push_w4
+              reference :  ?w0
+              reference :  ?w4
+              reference :  GPIO_ResetBits
+              reference :  GPIO_ToggleBits
+              definition:  Bsp_Led_Tim
+              definition:  KEY_LED_Struct
+              definition:  LED_Status
+              definition:  LED_Struct
+              definition:  __iar_cc..tJwXq0JMgK7
+Loading object D:\【利拍档】\一些项目\麻将机控制器\project\software\LPDEC-04D01H_V01.01_180521\Project\Debug\Obj\bsp_mem.o.
+              reference :  ?add32_l0_l0_l1
+              reference :  ?b0
+              reference :  ?b1
+              reference :  ?b10
+              reference :  ?b11
+              reference :  ?b12
+              reference :  ?b13
+              reference :  ?b15
+              reference :  ?b2
+              reference :  ?b3
+              reference :  ?b4
+              reference :  ?b5
+              reference :  ?b6
+              reference :  ?b7
+              reference :  ?b8
+              reference :  ?b9
+              reference :  ?e0
+              reference :  ?e1
+              reference :  ?e2
+              reference :  ?epilogue_l2
+              reference :  ?epilogue_l2_l3
+              reference :  ?epilogue_l2_w6
+              reference :  ?inc32_l2_l2
+              reference :  ?load24_e0_xsp
+              reference :  ?load24_e1_xsp
+              reference :  ?load24_xsp_e0
+              reference :  ?mov_e0_e1
+              reference :  ?mov_e0_e2
+              reference :  ?mov_e0_e3
+              reference :  ?mov_e1_e0
+              reference :  ?mov_e1_e2
+              reference :  ?mov_e1_e3
+              reference :  ?mov_e2_e0
+              reference :  ?mov_e3_e0
+              reference :  ?mov_e3_e2
+              reference :  ?mov_l1_l2
+              reference :  ?mov_l2_l0
+              reference :  ?mov_l3_l0
+              reference :  ?move1624_v_x_e0_y
+              reference :  ?pop_e2
+              reference :  ?pop_e3
+              reference :  ?pop_l3
+              reference :  ?push_e2
+              reference :  ?push_e3
+              reference :  ?push_l2
+              reference :  ?push_l3
+              reference :  ?push_w6
+              reference :  ?sext32_l0_x
+              reference :  ?w0
+              reference :  ?w1
+              reference :  ?w3
+              reference :  ?w5
+              reference :  ?w6
+              reference :  ?w7
+              reference :  Bsp_Tim3_Delay_Ms
+              reference :  Feed_The_IWDog
+              reference :  GPIO_ResetBits
+              reference :  GPIO_SetBits
+              reference :  Get_Xor
+              reference :  PacketHead
+              reference :  Set_Task
+              reference :  Task_Flag_Struct
+              reference :  Xor_Check
+              reference :  g_stGPRS_Handler
+              reference :  strcpy
+              definition:  Dynamic_Init
+              definition:  FLASH_Erase_Block
+              definition:  Solid_Romdata_Init
+              definition:  Store_Dynamic_Data
+              definition:  Store_Solid_Romdata
+              definition:  lock_PROG
+              definition:  unlock_PROG
+              definition:  __iar_cc..tJwXq0JMgK7
+Loading object D:\【利拍档】\一些项目\麻将机控制器\project\software\LPDEC-04D01H_V01.01_180521\Project\Debug\Obj\bsp_rcc.o.
+              reference :  CLK_ClockSecuritySystemEnable
+              reference :  CLK_DeInit
+              reference :  CLK_GetFlagStatus
+              reference :  CLK_HSICmd
+              reference :  CLK_LSEConfig
+              reference :  CLK_SYSCLKDivConfig
+              reference :  CLK_SYSCLKSourceConfig
+              reference :  CLK_SYSCLKSourceSwitchCmd
+              definition:  Bsp_Rcc_Init
+              definition:  Use_HSI_Clock
+              definition:  Use_LSE_Clock
+Loading object D:\【利拍档】\一些项目\麻将机控制器\project\software\LPDEC-04D01H_V01.01_180521\Project\Debug\Obj\bsp_tim.o.
+              reference :  ?b0
+              reference :  ?epilogue_w4
+              reference :  ?push_w4
+              reference :  ?w4
+              reference :  APP_GPRS_TimeProc
+              reference :  Bsp_Key_Tim
+              reference :  Bsp_Led_Tim
+              reference :  CLK_PeripheralClockConfig
+              reference :  Set_Task
+              reference :  TIM2_ARRPreloadConfig
+              reference :  TIM2_Cmd
+              reference :  TIM2_ITConfig
+              reference :  TIM2_TimeBaseInit
+              reference :  TIM3_ARRPreloadConfig
+              reference :  TIM3_ClearFlag
+              reference :  TIM3_Cmd
+              reference :  TIM3_GetFlagStatus
+              reference :  TIM3_TimeBaseInit
+              reference :  TIM5_ARRPreloadConfig
+              reference :  TIM5_Cmd
+              reference :  TIM5_ITConfig
+              reference :  TIM5_TimeBaseInit
+              reference :  Task_Flag_Struct
+              definition:  Bsp_Tim2_Init
+              definition:  Bsp_Tim3_Delay_Init
+              definition:  Bsp_Tim3_Delay_Ms
+              definition:  Bsp_Tim5_Init
+              definition:  Bsp_Tim_Update
+              definition:  Tim_Struct
+Loading object D:\【利拍档】\一些项目\麻将机控制器\project\software\LPDEC-04D01H_V01.01_180521\Project\Debug\Obj\bsp_uart.o.
+              reference :  ?b0
+              reference :  ?b1
+              reference :  ?b10
+              reference :  ?b2
+              reference :  ?b3
+              reference :  ?b8
+              reference :  ?b9
+              reference :  ?e0
+              reference :  ?epilogue_l2
+              reference :  ?mov_e0_e3
+              reference :  ?mov_e3_e0
+              reference :  ?mov_l1_l2
+              reference :  ?mov_l2_l0
+              reference :  ?pop_e3
+              reference :  ?pop_w4
+              reference :  ?push_e3
+              reference :  ?push_l2
+              reference :  ?push_w4
+              reference :  ?w0
+              reference :  ?w1
+              reference :  ?w4
+              reference :  CLK_PeripheralClockConfig
+              reference :  GPIO_Init
+              reference :  USART_Cmd
+              reference :  USART_GetFlagStatus
+              reference :  USART_ITConfig
+              reference :  USART_Init
+              reference :  USART_SendData8
+              definition:  BSP_UART_Transmit
+              definition:  Bsp_UART1_Init
+              definition:  Uart1_SendData
+              definition:  __iar_cc..tJwXq0JMgK7
+Loading object D:\【利拍档】\一些项目\麻将机控制器\project\software\LPDEC-04D01H_V01.01_180521\Project\Debug\Obj\bsp_var.o.
+              reference :  ?b0
+              reference :  ?b1
+              reference :  ?b2
+              reference :  ?b3
+              reference :  ?b4
+              reference :  ?b5
+              reference :  ?b6
+              reference :  ?b7
+              reference :  ?e0
+              reference :  ?move1624_v_x_e0_y
+              reference :  ?w0
+              reference :  ?w1
+              reference :  PacketHead
+              reference :  g_Maintask
+              reference :  g_stGPRS_Handler
+              reference :  ga_Subtask
+              reference :  strcpy
+              definition:  Bsp_Var_Init
+Loading object D:\【利拍档】\一些项目\麻将机控制器\project\software\LPDEC-04D01H_V01.01_180521\Project\Debug\Obj\main.o.
+              reference :  ?b0
+              reference :  ?b1
+              reference :  ?b2
+              reference :  ?b3
+              reference :  ?e0
+              reference :  ?load24_e0_0x
+              reference :  ?mul16_x_x_w0
+              reference :  ?w0
+              reference :  ?w1
+              reference :  Com_Bsp_Init
+              reference :  Feed_The_IWDog
+              reference :  Task_Struct
+              reference :  g_Maintask
+              reference :  ga_TaskMapTable
+              definition:  main
+Loading object D:\【利拍档】\一些项目\麻将机控制器\project\software\LPDEC-04D01H_V01.01_180521\Project\Debug\Obj\stm8l15x_adc.o.
+              reference :  ?b0
+              reference :  ?b1
+              reference :  ?b2
+              reference :  ?b4
+              reference :  ?b5
+              reference :  ?b6
+              reference :  ?e0
+              reference :  ?e1
+              reference :  ?e2
+              reference :  ?mov_e0_e2
+              reference :  ?mov_e1_e0
+              reference :  ?mov_e1_e2
+              reference :  ?mov_e2_e0
+              reference :  ?pop_e2
+              reference :  ?push_e2
+              reference :  ?w0
+              reference :  ?w1
+              reference :  ?w3
+              reference :  ?w5
+              definition:  ADC_AnalogWatchdogChannelSelect
+              definition:  ADC_AnalogWatchdogConfig
+              definition:  ADC_AnalogWatchdogThresholdsConfig
+              definition:  ADC_ChannelCmd
+              definition:  ADC_ClearFlag
+              definition:  ADC_ClearITPendingBit
+              definition:  ADC_Cmd
+              definition:  ADC_DMACmd
+              definition:  ADC_DeInit
+              definition:  ADC_ExternalTrigConfig
+              definition:  ADC_GetConversionValue
+              definition:  ADC_GetFlagStatus
+              definition:  ADC_GetITStatus
+              definition:  ADC_ITConfig
+              definition:  ADC_Init
+              definition:  ADC_SamplingTimeConfig
+              definition:  ADC_SchmittTriggerConfig
+              definition:  ADC_SoftwareStartConv
+              definition:  ADC_TempSensorCmd
+              definition:  ADC_VrefintCmd
+              definition:  __iar_cc..T17VzCwD2c9
+              definition:  __iar_cc..2Ucq$xYSoJB
+Loading object D:\【利拍档】\一些项目\麻将机控制器\project\software\LPDEC-04D01H_V01.01_180521\Project\Debug\Obj\stm8l15x_aes.o.
+              reference :  ?b0
+              reference :  ?b1
+              reference :  ?b2
+              reference :  ?b3
+              definition:  AES_ClearFlag
+              definition:  AES_ClearITPendingBit
+              definition:  AES_Cmd
+              definition:  AES_DMAConfig
+              definition:  AES_DeInit
+              definition:  AES_GetFlagStatus
+              definition:  AES_GetITStatus
+              definition:  AES_ITConfig
+              definition:  AES_OperationModeConfig
+              definition:  AES_ReadSubData
+              definition:  AES_ReadSubKey
+              definition:  AES_WriteSubData
+              definition:  AES_WriteSubKey
+Loading object D:\【利拍档】\一些项目\麻将机控制器\project\software\LPDEC-04D01H_V01.01_180521\Project\Debug\Obj\stm8l15x_beep.o.
+              reference :  ?b0
+              reference :  ?b1
+              reference :  ?mul16_x_x_w0
+              reference :  ?udiv32_l0_l0_dl
+              reference :  ?w0
+              reference :  ?w1
+              reference :  ?w2
+              definition:  BEEP_Cmd
+              definition:  BEEP_DeInit
+              definition:  BEEP_Init
+              definition:  BEEP_LSClockToTIMConnectCmd
+              definition:  BEEP_LSICalibrationConfig
+Loading object D:\【利拍档】\一些项目\麻将机控制器\project\software\LPDEC-04D01H_V01.01_180521\Project\Debug\Obj\stm8l15x_clk.o.
+              reference :  ?b0
+              reference :  ?b1
+              reference :  ?b2
+              reference :  ?b5
+              reference :  ?b6
+              reference :  ?b7
+              reference :  ?e1
+              reference :  ?sll16_x_x_a
+              reference :  ?udiv32_l0_l0_l1
+              reference :  ?w0
+              reference :  ?w1
+              reference :  ?w2
+              reference :  ?w3
+              definition:  CLK_AdjustHSICalibrationValue
+              definition:  CLK_BEEPClockConfig
+              definition:  CLK_CCOConfig
+              definition:  CLK_ClearFlag
+              definition:  CLK_ClearITPendingBit
+              definition:  CLK_ClockSecuritySystemEnable
+              definition:  CLK_ClockSecuritySytemDeglitchCmd
+              definition:  CLK_DeInit
+              definition:  CLK_GetClockFreq
+              definition:  CLK_GetFlagStatus
+              definition:  CLK_GetITStatus
+              definition:  CLK_GetSYSCLKSource
+              definition:  CLK_HSEConfig
+              definition:  CLK_HSICmd
+              definition:  CLK_HaltConfig
+              definition:  CLK_ITConfig
+              definition:  CLK_LSEClockSecuritySystemEnable
+              definition:  CLK_LSEConfig
+              definition:  CLK_LSICmd
+              definition:  CLK_MainRegulatorCmd
+              definition:  CLK_PeripheralClockConfig
+              definition:  CLK_RTCCLKSwitchOnLSEFailureEnable
+              definition:  CLK_RTCClockConfig
+              definition:  CLK_SYSCLKDivConfig
+              definition:  CLK_SYSCLKSourceConfig
+              definition:  CLK_SYSCLKSourceSwitchCmd
+              definition:  SYSDivFactor
+              definition:  __iar_cc..p7tSLTlz1gA
+              definition:  __iar_cc..dOqFzgME06$
+Loading object D:\【利拍档】\一些项目\麻将机控制器\project\software\LPDEC-04D01H_V01.01_180521\Project\Debug\Obj\stm8l15x_comp.o.
+              reference :  ?b0
+              reference :  ?b1
+              reference :  ?b2
+              definition:  COMP_ClearFlag
+              definition:  COMP_ClearITPendingBit
+              definition:  COMP_DeInit
+              definition:  COMP_EdgeConfig
+              definition:  COMP_GetFlagStatus
+              definition:  COMP_GetITStatus
+              definition:  COMP_GetOutputLevel
+              definition:  COMP_ITConfig
+              definition:  COMP_Init
+              definition:  COMP_SchmittTriggerCmd
+              definition:  COMP_TriggerConfig
+              definition:  COMP_VrefintOutputCmd
+              definition:  COMP_VrefintToCOMP1Connect
+              definition:  COMP_WindowCmd
+Loading object D:\【利拍档】\一些项目\麻将机控制器\project\software\LPDEC-04D01H_V01.01_180521\Project\Debug\Obj\stm8l15x_dac.o.
+              reference :  ?b0
+              reference :  ?b1
+              reference :  ?b2
+              reference :  ?b3
+              reference :  ?b4
+              reference :  ?b5
+              reference :  ?e0
+              reference :  ?e1
+              reference :  ?sll16_x_x_a
+              reference :  ?sra16_x_x_a
+              reference :  ?w0
+              reference :  ?w1
+              reference :  ?w3
+              definition:  DAC_ClearFlag
+              definition:  DAC_ClearITPendingBit
+              definition:  DAC_Cmd
+              definition:  DAC_DMACmd
+              definition:  DAC_DeInit
+              definition:  DAC_DualSoftwareTriggerCmd
+              definition:  DAC_GetDataOutputValue
+              definition:  DAC_GetFlagStatus
+              definition:  DAC_GetITStatus
+              definition:  DAC_ITConfig
+              definition:  DAC_Init
+              definition:  DAC_SetChannel1Data
+              definition:  DAC_SetChannel2Data
+              definition:  DAC_SetDualChannelData
+              definition:  DAC_SetNoiseWaveLFSR
+              definition:  DAC_SetTriangleWaveAmplitude
+              definition:  DAC_SoftwareTriggerCmd
+              definition:  DAC_WaveGenerationCmd
+              definition:  __iar_cc..XLMQnvxKQ17
+              definition:  __iar_cc..gNsFJmoQK$A
+Loading object D:\【利拍档】\一些项目\麻将机控制器\project\software\LPDEC-04D01H_V01.01_180521\Project\Debug\Obj\stm8l15x_dma.o.
+              reference :  ?b0
+              reference :  ?b1
+              reference :  ?b2
+              reference :  ?b3
+              reference :  ?b4
+              reference :  ?b5
+              reference :  ?b6
+              reference :  ?b7
+              reference :  ?b9
+              reference :  ?e0
+              reference :  ?e1
+              reference :  ?e2
+              reference :  ?e3
+              reference :  ?mov_e0_e1
+              reference :  ?mov_e0_e2
+              reference :  ?mov_e1_e0
+              reference :  ?mov_e2_e0
+              reference :  ?mov_e3_e2
+              reference :  ?mov_l0_l1
+              reference :  ?pop_e2
+              reference :  ?pop_e3
+              reference :  ?push_e2
+              reference :  ?push_e3
+              reference :  ?srl32_l0_l0_a
+              reference :  ?ucmp24_c_0x_e0
+              reference :  ?w1
+              reference :  ?w3
+              reference :  ?w5
+              reference :  ?w7
+              definition:  DMA_ClearFlag
+              definition:  DMA_ClearITPendingBit
+              definition:  DMA_Cmd
+              definition:  DMA_DeInit
+              definition:  DMA_GetCurrDataCounter
+              definition:  DMA_GetFlagStatus
+              definition:  DMA_GetITStatus
+              definition:  DMA_GlobalCmd
+              definition:  DMA_GlobalDeInit
+              definition:  DMA_ITConfig
+              definition:  DMA_Init
+              definition:  DMA_SetCurrDataCounter
+              definition:  DMA_SetTimeOut
+              definition:  __iar_cc..SX_2jJ1q5j_
+Loading object D:\【利拍档】\一些项目\麻将机控制器\project\software\LPDEC-04D01H_V01.01_180521\Project\Debug\Obj\stm8l15x_exti.o.
+              reference :  ?b0
+              reference :  ?b1
+              reference :  ?sll16_x_x_a
+              reference :  ?sll8_a_a_6
+              reference :  ?sra16_x_x_a
+              reference :  ?srl8_a_a_6
+              definition:  EXTI_ClearITPendingBit
+              definition:  EXTI_DeInit
+              definition:  EXTI_GetITStatus
+              definition:  EXTI_GetPinSensitivity
+              definition:  EXTI_GetPortSensitivity
+              definition:  EXTI_SelectPort
+              definition:  EXTI_SetHalfPortSelection
+              definition:  EXTI_SetPinSensitivity
+              definition:  EXTI_SetPortSensitivity
+              definition:  __iar_cc..cW2WUY0E9y$
+              definition:  __iar_cc..IMFT6dCRzt6
+Loading object D:\【利拍档】\一些项目\麻将机控制器\project\software\LPDEC-04D01H_V01.01_180521\Project\Debug\Obj\stm8l15x_flash.o.
+              reference :  ?add32_l0_l0_l1
+              reference :  ?b0
+              reference :  ?b1
+              reference :  ?b5
+              reference :  ?b8
+              reference :  ?e0
+              reference :  ?e1
+              reference :  ?epilogue_l2_l3
+              reference :  ?mov_e0_e1
+              reference :  ?mov_e1_e0
+              reference :  ?mov_e1_e2
+              reference :  ?mov_e2_e0
+              reference :  ?mov_l0_l1
+              reference :  ?mov_l1_l3
+              reference :  ?mov_l3_l0
+              reference :  ?mov_w1_w6
+              reference :  ?mov_w3_w1
+              reference :  ?push_l1
+              reference :  ?push_l2
+              reference :  ?push_l3
+              reference :  ?sll32_l0_l0_a
+              reference :  ?w0
+              reference :  ?w1
+              reference :  ?w2
+              reference :  ?w3
+              reference :  ?w6
+              definition:  FLASH_DeInit
+              definition:  FLASH_EraseBlock
+              definition:  FLASH_EraseByte
+              definition:  FLASH_EraseOptionByte
+              definition:  FLASH_GetBootSize
+              definition:  FLASH_GetCodeSize
+              definition:  FLASH_GetFlagStatus
+              definition:  FLASH_GetPowerStatus
+              definition:  FLASH_GetProgrammingTime
+              definition:  FLASH_GetReadOutProtectionStatus
+              definition:  FLASH_ITConfig
+              definition:  FLASH_Lock
+              definition:  FLASH_PowerRunModeConfig
+              definition:  FLASH_PowerWaitModeConfig
+              definition:  FLASH_ProgramBlock
+              definition:  FLASH_ProgramByte
+              definition:  FLASH_ProgramOptionByte
+              definition:  FLASH_ProgramWord
+              definition:  FLASH_ReadByte
+              definition:  FLASH_SetProgrammingTime
+              definition:  FLASH_Unlock
+              definition:  FLASH_WaitForLastOperation
+Loading object D:\【利拍档】\一些项目\麻将机控制器\project\software\LPDEC-04D01H_V01.01_180521\Project\Debug\Obj\stm8l15x_gpio.o.
+              reference :  ?b0
+              reference :  ?b4
+              reference :  ?b8
+              reference :  ?e0
+              reference :  ?e1
+              reference :  ?e2
+              reference :  ?epilogue_l2
+              reference :  ?mov_e1_e0
+              reference :  ?mov_e2_e0
+              reference :  ?push_l2
+              reference :  ?w1
+              reference :  ?w3
+              reference :  ?w5
+              definition:  GPIO_DeInit
+              definition:  GPIO_ExternalPullUpConfig
+              definition:  GPIO_Init
+              definition:  GPIO_ReadInputData
+              definition:  GPIO_ReadInputDataBit
+              definition:  GPIO_ReadOutputData
+              definition:  GPIO_ReadOutputDataBit
+              definition:  GPIO_ResetBits
+              definition:  GPIO_SetBits
+              definition:  GPIO_ToggleBits
+              definition:  GPIO_Write
+              definition:  GPIO_WriteBit
+              definition:  __iar_cc..CPGgy$7eR08
+              definition:  __iar_cc..tJwXq0JMgK7
+Loading object D:\【利拍档】\一些项目\麻将机控制器\project\software\LPDEC-04D01H_V01.01_180521\Project\Debug\Obj\stm8l15x_i2c.o.
+              reference :  ?b0
+              reference :  ?b1
+              reference :  ?b3
+              reference :  ?b4
+              reference :  ?b7
+              reference :  ?b8
+              reference :  ?b9
+              reference :  ?e0
+              reference :  ?e1
+              reference :  ?e2
+              reference :  ?epilogue_l2_l3
+              reference :  ?epilogue_w4
+              reference :  ?load32_l0_xsp
+              reference :  ?load32_xsp_l0
+              reference :  ?mov_e0_e1
+              reference :  ?mov_e0_e2
+              reference :  ?mov_e1_e0
+              reference :  ?mov_e2_e0
+              reference :  ?mov_l0_l3
+              reference :  ?mov_l1_l0
+              reference :  ?mov_l3_l1
+              reference :  ?mul16_x_x_w0
+              reference :  ?mul32_l0_l0_l1
+              reference :  ?push_l2
+              reference :  ?push_l3
+              reference :  ?push_w4
+              reference :  ?sdiv16_x_x_y
+              reference :  ?sll32_l0_l0_a
+              reference :  ?udiv32_l0_l0_dl
+              reference :  ?udiv32_l0_l0_l1
+              reference :  ?w0
+              reference :  ?w1
+              reference :  ?w2
+              reference :  ?w3
+              reference :  ?w4
+              reference :  ?w5
+              reference :  ?w6
+              reference :  ?w7
+              reference :  CLK_GetClockFreq
+              definition:  I2C_ARPCmd
+              definition:  I2C_AckPositionConfig
+              definition:  I2C_AcknowledgeConfig
+              definition:  I2C_CalculatePEC
+              definition:  I2C_CheckEvent
+              definition:  I2C_ClearFlag
+              definition:  I2C_ClearITPendingBit
+              definition:  I2C_Cmd
+              definition:  I2C_DMACmd
+              definition:  I2C_DMALastTransferCmd
+              definition:  I2C_DeInit
+              definition:  I2C_DualAddressCmd
+              definition:  I2C_FastModeDutyCycleConfig
+              definition:  I2C_GeneralCallCmd
+              definition:  I2C_GenerateSTART
+              definition:  I2C_GenerateSTOP
+              definition:  I2C_GetFlagStatus
+              definition:  I2C_GetITStatus
+              definition:  I2C_GetLastEvent
+              definition:  I2C_GetPEC
+              definition:  I2C_ITConfig
+              definition:  I2C_Init
+              definition:  I2C_OwnAddress2Config
+              definition:  I2C_PECPositionConfig
+              definition:  I2C_ReadRegister
+              definition:  I2C_ReceiveData
+              definition:  I2C_SMBusAlertConfig
+              definition:  I2C_Send7bitAddress
+              definition:  I2C_SendData
+              definition:  I2C_SoftwareResetCmd
+              definition:  I2C_StretchClockCmd
+              definition:  I2C_TransmitPEC
+              definition:  __iar_cc..L$VMFwewSND
+              definition:  __iar_cc..Oc5vnFEK8N1
+              definition:  __iar_cc..emHrT2CuNQC
+              definition:  __iar_cc..hcy4uqbHi44
+Loading object D:\【利拍档】\一些项目\麻将机控制器\project\software\LPDEC-04D01H_V01.01_180521\Project\Debug\Obj\stm8l15x_irtim.o.
+              definition:  IRTIM_Cmd
+              definition:  IRTIM_DeInit
+              definition:  IRTIM_GetHighSinkODStatus
+              definition:  IRTIM_GetStatus
+              definition:  IRTIM_HighSinkODCmd
+Loading object D:\【利拍档】\一些项目\麻将机控制器\project\software\LPDEC-04D01H_V01.01_180521\Project\Debug\Obj\stm8l15x_it.o.
+              reference :  ?b0
+              reference :  ?b1
+              reference :  ?b2
+              reference :  ?b3
+              reference :  ?pop_l0
+              reference :  ?pop_l1
+              reference :  ?pop_w4
+              reference :  ?push_l0
+              reference :  ?push_l1
+              reference :  ?push_w4
+              reference :  ?w4
+              reference :  Bsp_Tim_Update
+              reference :  EXTI_ClearITPendingBit
+              reference :  EXTI_GetITStatus
+              reference :  Set_Task
+              reference :  TIM2_ClearITPendingBit
+              reference :  TIM2_GetFlagStatus
+              reference :  TIM3_ClearITPendingBit
+              reference :  TIM3_GetITStatus
+              reference :  TIM4_ClearITPendingBit
+              reference :  TIM4_GetFlagStatus
+              reference :  USART_ClearFlag
+              reference :  USART_ClearITPendingBit
+              reference :  USART_GetFlagStatus
+              reference :  USART_GetITStatus
+              reference :  USART_ReceiveData8
+              reference :  g_stGPRS_Handler
+              definition:  ADC1_COMP_IRQHandler
+              definition:  DMA1_CHANNEL0_1_IRQHandler
+              definition:  DMA1_CHANNEL2_3_IRQHandler
+              definition:  EXTI0_IRQHandler
+              definition:  EXTI1_IRQHandler
+              definition:  EXTI2_IRQHandler
+              definition:  EXTI3_IRQHandler
+              definition:  EXTI4_IRQHandler
+              definition:  EXTI5_IRQHandler
+              definition:  EXTI6_IRQHandler
+              definition:  EXTI7_IRQHandler
+              definition:  EXTIB_G_IRQHandler
+              definition:  EXTID_H_IRQHandler
+              definition:  EXTIE_F_PVD_IRQHandler
+              definition:  FLASH_IRQHandler
+              definition:  I2C1_SPI2_IRQHandler
+              definition:  LCD_AES_IRQHandler
+              definition:  RTC_CSSLSE_IRQHandler
+              definition:  Res
+              definition:  SPI1_IRQHandler
+              definition:  SWITCH_CSS_BREAK_DAC_IRQHandler
+              definition:  TIM1_CC_IRQHandler
+              definition:  TIM1_UPD_OVF_TRG_COM_IRQHandler
+              definition:  TIM2_CC_USART2_RX_IRQHandler
+              definition:  TIM2_UPD_OVF_TRG_BRK_USART2_TX_IRQHandler
+              definition:  TIM3_CC_USART3_RX_IRQHandler
+              definition:  TIM3_UPD_OVF_TRG_BRK_USART3_TX_IRQHandler
+              definition:  TIM4_UPD_OVF_TRG_IRQHandler
+              definition:  TRAP_IRQHandler
+              definition:  USART1_RX_TIM5_CC_IRQHandler
+              definition:  USART1_TX_TIM5_UPD_OVF_TRG_BRK_IRQHandler
+              definition:  _interrupt_1
+              definition:  _interrupt_10
+              definition:  _interrupt_11
+              definition:  _interrupt_12
+              definition:  _interrupt_13
+              definition:  _interrupt_14
+              definition:  _interrupt_15
+              definition:  _interrupt_16
+              definition:  _interrupt_17
+              definition:  _interrupt_18
+              definition:  _interrupt_19
+              definition:  _interrupt_20
+              definition:  _interrupt_21
+              definition:  _interrupt_22
+              definition:  _interrupt_23
+              definition:  _interrupt_24
+              definition:  _interrupt_25
+              definition:  _interrupt_26
+              definition:  _interrupt_27
+              definition:  _interrupt_28
+              definition:  _interrupt_29
+              definition:  _interrupt_3
+              definition:  _interrupt_30
+              definition:  _interrupt_31
+              definition:  _interrupt_4
+              definition:  _interrupt_5
+              definition:  _interrupt_6
+              definition:  _interrupt_7
+              definition:  _interrupt_8
+              definition:  _interrupt_9
+Loading object D:\【利拍档】\一些项目\麻将机控制器\project\software\LPDEC-04D01H_V01.01_180521\Project\Debug\Obj\stm8l15x_itc.o.
+              reference :  ?b0
+              reference :  ?b1
+              reference :  ?b2
+              reference :  ?b3
+              reference :  ?b4
+              reference :  ?sll8_a_a_b0
+              reference :  ?srl8_a_a_b0
+              definition:  ITC_DeInit
+              definition:  ITC_GetCPUCC
+              definition:  ITC_GetSoftIntStatus
+              definition:  ITC_GetSoftwarePriority
+              definition:  ITC_SetSoftwarePriority
+              definition:  __iar_cc..LoWwzrZT0P2
+Loading object D:\【利拍档】\一些项目\麻将机控制器\project\software\LPDEC-04D01H_V01.01_180521\Project\Debug\Obj\stm8l15x_iwdg.o.
+              definition:  IWDG_Enable
+              definition:  IWDG_ReloadCounter
+              definition:  IWDG_SetPrescaler
+              definition:  IWDG_SetReload
+              definition:  IWDG_WriteAccessCmd
+Loading object D:\【利拍档】\一些项目\麻将机控制器\project\software\LPDEC-04D01H_V01.01_180521\Project\Debug\Obj\stm8l15x_lcd.o.
+              reference :  ?b0
+              reference :  ?b1
+              reference :  ?b2
+              reference :  ?b3
+              reference :  ?b4
+              reference :  ?e0
+              reference :  ?w1
+              definition:  LCD_BlinkConfig
+              definition:  LCD_ClearFlag
+              definition:  LCD_ClearITPendingBit
+              definition:  LCD_Cmd
+              definition:  LCD_ContrastConfig
+              definition:  LCD_DeInit
+              definition:  LCD_DeadTimeConfig
+              definition:  LCD_GetFlagStatus
+              definition:  LCD_GetITStatus
+              definition:  LCD_HighDriveCmd
+              definition:  LCD_ITConfig
+              definition:  LCD_Init
+              definition:  LCD_PageSelect
+              definition:  LCD_PortMaskConfig
+              definition:  LCD_PulseOnDurationConfig
+              definition:  LCD_WriteRAM
+              definition:  __iar_cc..F1EtAztaTg_
+              definition:  __iar_cc..goHsa6quEIB
+              definition:  __iar_cc..AkQp3$MXi6B
+Loading object D:\【利拍档】\一些项目\麻将机控制器\project\software\LPDEC-04D01H_V01.01_180521\Project\Debug\Obj\stm8l15x_pwr.o.
+              reference :  ?b0
+              reference :  ?b1
+              definition:  PWR_DeInit
+              definition:  PWR_FastWakeUpCmd
+              definition:  PWR_GetFlagStatus
+              definition:  PWR_PVDClearFlag
+              definition:  PWR_PVDClearITPendingBit
+              definition:  PWR_PVDCmd
+              definition:  PWR_PVDGetITStatus
+              definition:  PWR_PVDITConfig
+              definition:  PWR_PVDLevelConfig
+              definition:  PWR_UltraLowPowerCmd
+Loading object D:\【利拍档】\一些项目\麻将机控制器\project\software\LPDEC-04D01H_V01.01_180521\Project\Debug\Obj\stm8l15x_rst.o.
+              reference :  ?b0
+              definition:  RST_ClearFlag
+              definition:  RST_GPOutputEnable
+              definition:  RST_GetFlagStatus
+Loading object D:\【利拍档】\一些项目\麻将机控制器\project\software\LPDEC-04D01H_V01.01_180521\Project\Debug\Obj\stm8l15x_rtc.o.
+              reference :  ?b0
+              reference :  ?b1
+              reference :  ?b12
+              reference :  ?b13
+              reference :  ?b2
+              reference :  ?b3
+              reference :  ?b4
+              reference :  ?b5
+              reference :  ?b8
+              reference :  ?e0
+              reference :  ?e1
+              reference :  ?e2
+              reference :  ?e3
+              reference :  ?epilogue_l2
+              reference :  ?epilogue_l2_l3
+              reference :  ?epilogue_l2_w6
+              reference :  ?mov_e0_e1
+              reference :  ?mov_e0_e2
+              reference :  ?mov_e0_e3
+              reference :  ?mov_e1_e0
+              reference :  ?mov_e1_e2
+              reference :  ?mov_e1_e3
+              reference :  ?mov_e2_e0
+              reference :  ?mov_e2_e1
+              reference :  ?mov_e2_e3
+              reference :  ?mov_e3_e0
+              reference :  ?mov_e3_e2
+              reference :  ?pop_e2
+              reference :  ?pop_e3
+              reference :  ?push_e2
+              reference :  ?push_e3
+              reference :  ?push_l2
+              reference :  ?push_l3
+              reference :  ?push_w6
+              reference :  ?w0
+              reference :  ?w1
+              reference :  ?w2
+              reference :  ?w3
+              reference :  ?w5
+              reference :  ?w7
+              definition:  RTC_AlarmCmd
+              definition:  RTC_AlarmStructInit
+              definition:  RTC_AlarmSubSecondConfig
+              definition:  RTC_BypassShadowCmd
+              definition:  RTC_CalibOutputCmd
+              definition:  RTC_CalibOutputConfig
+              definition:  RTC_ClearFlag
+              definition:  RTC_ClearITPendingBit
+              definition:  RTC_DateStructInit
+              definition:  RTC_DayLightSavingConfig
+              definition:  RTC_DeInit
+              definition:  RTC_EnterInitMode
+              definition:  RTC_ExitInitMode
+              definition:  RTC_GetAlarm
+              definition:  RTC_GetDate
+              definition:  RTC_GetFlagStatus
+              definition:  RTC_GetITStatus
+              definition:  RTC_GetStoreOperation
+              definition:  RTC_GetSubSecond
+              definition:  RTC_GetTime
+              definition:  RTC_GetWakeUpCounter
+              definition:  RTC_ITConfig
+              definition:  RTC_Init
+              definition:  RTC_OutputConfig
+              definition:  RTC_RatioCmd
+              definition:  RTC_SetAlarm
+              definition:  RTC_SetDate
+              definition:  RTC_SetTime
+              definition:  RTC_SetWakeUpCounter
+              definition:  RTC_SmoothCalibConfig
+              definition:  RTC_StructInit
+              definition:  RTC_SynchroShiftConfig
+              definition:  RTC_TamperCmd
+              definition:  RTC_TamperFilterConfig
+              definition:  RTC_TamperLevelConfig
+              definition:  RTC_TamperPinsPrechargeDuration
+              definition:  RTC_TamperSamplingFreqConfig
+              definition:  RTC_TimeStructInit
+              definition:  RTC_WaitForSynchro
+              definition:  RTC_WakeUpClockConfig
+              definition:  RTC_WakeUpCmd
+              definition:  RTC_WriteProtectionCmd
+              definition:  __iar_cc..ExTlJWcz0e5
+              definition:  __iar_cc..vfXEaxIrpk5
+              definition:  __iar_cc..X3Z37qs2xd_
+Loading object D:\【利拍档】\一些项目\麻将机控制器\project\software\LPDEC-04D01H_V01.01_180521\Project\Debug\Obj\stm8l15x_spi.o.
+              reference :  ?b0
+              reference :  ?b1
+              reference :  ?b2
+              reference :  ?b3
+              reference :  ?b4
+              reference :  ?b5
+              reference :  ?b6
+              reference :  ?b7
+              reference :  ?b8
+              reference :  ?e0
+              reference :  ?e1
+              reference :  ?e2
+              reference :  ?epilogue_l2
+              reference :  ?mov_e0_e2
+              reference :  ?mov_e1_e0
+              reference :  ?mov_e2_e0
+              reference :  ?pop_e2
+              reference :  ?push_e2
+              reference :  ?push_l2
+              reference :  ?sll16_x_x_a
+              reference :  ?w1
+              reference :  ?w3
+              reference :  ?w5
+              definition:  SPI_BiDirectionalLineConfig
+              definition:  SPI_CalculateCRCCmd
+              definition:  SPI_ClearFlag
+              definition:  SPI_ClearITPendingBit
+              definition:  SPI_Cmd
+              definition:  SPI_DMACmd
+              definition:  SPI_DeInit
+              definition:  SPI_GetCRC
+              definition:  SPI_GetCRCPolynomial
+              definition:  SPI_GetFlagStatus
+              definition:  SPI_GetITStatus
+              definition:  SPI_ITConfig
+              definition:  SPI_Init
+              definition:  SPI_NSSInternalSoftwareCmd
+              definition:  SPI_ReceiveData
+              definition:  SPI_ResetCRC
+              definition:  SPI_SendData
+              definition:  SPI_TransmitCRC
+Loading object D:\【利拍档】\一些项目\麻将机控制器\project\software\LPDEC-04D01H_V01.01_180521\Project\Debug\Obj\stm8l15x_syscfg.o.
+              reference :  ?b0
+              reference :  ?b1
+              reference :  ?b2
+              reference :  ?sll16_x_x_a
+              definition:  SYSCFG_REMAPDMAChannelConfig
+              definition:  SYSCFG_REMAPDeInit
+              definition:  SYSCFG_REMAPPinConfig
+              definition:  SYSCFG_RIAnalogSwitchConfig
+              definition:  SYSCFG_RIDeInit
+              definition:  SYSCFG_RIIOSwitchConfig
+              definition:  SYSCFG_RIResistorConfig
+              definition:  SYSCFG_RITIMInputCaptureConfig
+              definition:  __iar_cc..GJqqmiEuHD4
+              definition:  __iar_cc..JJP62KmHDR_
+              definition:  __iar_cc..iSfoKSLCuf0
+              definition:  __iar_cc..ef3yopOEGB6
+Loading object D:\【利拍档】\一些项目\麻将机控制器\project\software\LPDEC-04D01H_V01.01_180521\Project\Debug\Obj\stm8l15x_tim1.o.
+              reference :  ?b0
+              reference :  ?b1
+              reference :  ?b2
+              reference :  ?b3
+              reference :  ?b4
+              reference :  ?b5
+              reference :  ?b6
+              reference :  ?b7
+              reference :  ?b8
+              reference :  ?w0
+              reference :  ?w1
+              definition:  TIM1_ARRPreloadConfig
+              definition:  TIM1_BDTRConfig
+              definition:  TIM1_CCPreloadControl
+              definition:  TIM1_CCxCmd
+              definition:  TIM1_CCxNCmd
+              definition:  TIM1_ClearFlag
+              definition:  TIM1_ClearITPendingBit
+              definition:  TIM1_ClearOC1Ref
+              definition:  TIM1_ClearOC2Ref
+              definition:  TIM1_ClearOC3Ref
+              definition:  TIM1_ClearOC4Ref
+              definition:  TIM1_Cmd
+              definition:  TIM1_CounterModeConfig
+              definition:  TIM1_CtrlPWMOutputs
+              definition:  TIM1_DMACmd
+              definition:  TIM1_DMAConfig
+              definition:  TIM1_DeInit
+              definition:  TIM1_ETRClockMode1Config
+              definition:  TIM1_ETRClockMode2Config
+              definition:  TIM1_ETRConfig
+              definition:  TIM1_EncoderInterfaceConfig
+              definition:  TIM1_ForcedOC1Config
+              definition:  TIM1_ForcedOC2Config
+              definition:  TIM1_ForcedOC3Config
+              definition:  TIM1_GenerateEvent
+              definition:  TIM1_GetCapture1
+              definition:  TIM1_GetCapture2
+              definition:  TIM1_GetCapture3
+              definition:  TIM1_GetCapture4
+              definition:  TIM1_GetCounter
+              definition:  TIM1_GetFlagStatus
+              definition:  TIM1_GetITStatus
+              definition:  TIM1_GetPrescaler
+              definition:  TIM1_ICInit
+              definition:  TIM1_ITConfig
+              definition:  TIM1_InternalClockConfig
+              definition:  TIM1_OC1FastConfig
+              definition:  TIM1_OC1Init
+              definition:  TIM1_OC1NPolarityConfig
+              definition:  TIM1_OC1PolarityConfig
+              definition:  TIM1_OC1PreloadConfig
+              definition:  TIM1_OC2FastConfig
+              definition:  TIM1_OC2Init
+              definition:  TIM1_OC2NPolarityConfig
+              definition:  TIM1_OC2PolarityConfig
+              definition:  TIM1_OC2PreloadConfig
+              definition:  TIM1_OC3FastConfig
+              definition:  TIM1_OC3Init
+              definition:  TIM1_OC3NPolarityConfig
+              definition:  TIM1_OC3PolarityConfig
+              definition:  TIM1_OC3PreloadConfig
+              definition:  TIM1_OC4PreloadConfig
+              definition:  TIM1_PWMIConfig
+              definition:  TIM1_PrescalerConfig
+              definition:  TIM1_SelectCCDMA
+              definition:  TIM1_SelectCOM
+              definition:  TIM1_SelectHallSensor
+              definition:  TIM1_SelectInputTrigger
+              definition:  TIM1_SelectMasterSlaveMode
+              definition:  TIM1_SelectOCREFClear
+              definition:  TIM1_SelectOCxM
+              definition:  TIM1_SelectOnePulseMode
+              definition:  TIM1_SelectOutputTrigger
+              definition:  TIM1_SelectSlaveMode
+              definition:  TIM1_SetAutoreload
+              definition:  TIM1_SetCompare1
+              definition:  TIM1_SetCompare2
+              definition:  TIM1_SetCompare3
+              definition:  TIM1_SetCompare4
+              definition:  TIM1_SetCounter
+              definition:  TIM1_SetIC1Prescaler
+              definition:  TIM1_SetIC2Prescaler
+              definition:  TIM1_SetIC3Prescaler
+              definition:  TIM1_SetIC4Prescaler
+              definition:  TIM1_TIxExternalClockConfig
+              definition:  TIM1_TimeBaseInit
+              definition:  TIM1_UpdateDisableConfig
+              definition:  TIM1_UpdateRequestConfig
+              definition:  __iar_cc..D4ixcVED3U8
+              definition:  __iar_cc..XN9sI4OzCk7
+              definition:  __iar_cc..Gf12DfjNsOA
+Loading object D:\【利拍档】\一些项目\麻将机控制器\project\software\LPDEC-04D01H_V01.01_180521\Project\Debug\Obj\stm8l15x_tim2.o.
+              reference :  ?b0
+              reference :  ?b1
+              reference :  ?b2
+              reference :  ?b3
+              reference :  ?b4
+              reference :  ?b5
+              reference :  ?b6
+              reference :  ?b7
+              reference :  ?b8
+              reference :  ?b9
+              reference :  ?epilogue_w4
+              reference :  ?push_w4
+              reference :  ?w0
+              definition:  TIM2_ARRPreloadConfig
+              definition:  TIM2_BKRConfig
+              definition:  TIM2_CCxCmd
+              definition:  TIM2_ClearFlag
+              definition:  TIM2_ClearITPendingBit
+              definition:  TIM2_Cmd
+              definition:  TIM2_CounterModeConfig
+              definition:  TIM2_CtrlPWMOutputs
+              definition:  TIM2_DMACmd
+              definition:  TIM2_DeInit
+              definition:  TIM2_ETRClockMode1Config
+              definition:  TIM2_ETRClockMode2Config
+              definition:  TIM2_ETRConfig
+              definition:  TIM2_EncoderInterfaceConfig
+              definition:  TIM2_ForcedOC1Config
+              definition:  TIM2_ForcedOC2Config
+              definition:  TIM2_GenerateEvent
+              definition:  TIM2_GetCapture1
+              definition:  TIM2_GetCapture2
+              definition:  TIM2_GetCounter
+              definition:  TIM2_GetFlagStatus
+              definition:  TIM2_GetITStatus
+              definition:  TIM2_GetPrescaler
+              definition:  TIM2_ICInit
+              definition:  TIM2_ITConfig
+              definition:  TIM2_InternalClockConfig
+              definition:  TIM2_OC1FastConfig
+              definition:  TIM2_OC1Init
+              definition:  TIM2_OC1PolarityConfig
+              definition:  TIM2_OC1PreloadConfig
+              definition:  TIM2_OC2FastConfig
+              definition:  TIM2_OC2Init
+              definition:  TIM2_OC2PolarityConfig
+              definition:  TIM2_OC2PreloadConfig
+              definition:  TIM2_PWMIConfig
+              definition:  TIM2_PrescalerConfig
+              definition:  TIM2_SelectCCDMA
+              definition:  TIM2_SelectHallSensor
+              definition:  TIM2_SelectInputTrigger
+              definition:  TIM2_SelectMasterSlaveMode
+              definition:  TIM2_SelectOCxM
+              definition:  TIM2_SelectOnePulseMode
+              definition:  TIM2_SelectOutputTrigger
+              definition:  TIM2_SelectSlaveMode
+              definition:  TIM2_SetAutoreload
+              definition:  TIM2_SetCompare1
+              definition:  TIM2_SetCompare2
+              definition:  TIM2_SetCounter
+              definition:  TIM2_SetIC1Prescaler
+              definition:  TIM2_SetIC2Prescaler
+              definition:  TIM2_TIxExternalClockConfig
+              definition:  TIM2_TimeBaseInit
+              definition:  TIM2_UpdateDisableConfig
+              definition:  TIM2_UpdateRequestConfig
+Loading object D:\【利拍档】\一些项目\麻将机控制器\project\software\LPDEC-04D01H_V01.01_180521\Project\Debug\Obj\stm8l15x_tim3.o.
+              reference :  ?b0
+              reference :  ?b1
+              reference :  ?b2
+              reference :  ?b3
+              reference :  ?b4
+              reference :  ?b5
+              reference :  ?b6
+              reference :  ?b7
+              reference :  ?b8
+              reference :  ?b9
+              reference :  ?epilogue_w4
+              reference :  ?push_w4
+              reference :  ?w0
+              definition:  TIM3_ARRPreloadConfig
+              definition:  TIM3_BKRConfig
+              definition:  TIM3_CCxCmd
+              definition:  TIM3_ClearFlag
+              definition:  TIM3_ClearITPendingBit
+              definition:  TIM3_Cmd
+              definition:  TIM3_CounterModeConfig
+              definition:  TIM3_CtrlPWMOutputs
+              definition:  TIM3_DMACmd
+              definition:  TIM3_DeInit
+              definition:  TIM3_ETRClockMode1Config
+              definition:  TIM3_ETRClockMode2Config
+              definition:  TIM3_ETRConfig
+              definition:  TIM3_EncoderInterfaceConfig
+              definition:  TIM3_ForcedOC1Config
+              definition:  TIM3_ForcedOC2Config
+              definition:  TIM3_GenerateEvent
+              definition:  TIM3_GetCapture1
+              definition:  TIM3_GetCapture2
+              definition:  TIM3_GetCounter
+              definition:  TIM3_GetFlagStatus
+              definition:  TIM3_GetITStatus
+              definition:  TIM3_GetPrescaler
+              definition:  TIM3_ICInit
+              definition:  TIM3_ITConfig
+              definition:  TIM3_InternalClockConfig
+              definition:  TIM3_OC1FastConfig
+              definition:  TIM3_OC1Init
+              definition:  TIM3_OC1PolarityConfig
+              definition:  TIM3_OC1PreloadConfig
+              definition:  TIM3_OC2FastConfig
+              definition:  TIM3_OC2Init
+              definition:  TIM3_OC2PolarityConfig
+              definition:  TIM3_OC2PreloadConfig
+              definition:  TIM3_PWMIConfig
+              definition:  TIM3_PrescalerConfig
+              definition:  TIM3_SelectCCDMA
+              definition:  TIM3_SelectHallSensor
+              definition:  TIM3_SelectInputTrigger
+              definition:  TIM3_SelectMasterSlaveMode
+              definition:  TIM3_SelectOCxM
+              definition:  TIM3_SelectOnePulseMode
+              definition:  TIM3_SelectOutputTrigger
+              definition:  TIM3_SelectSlaveMode
+              definition:  TIM3_SetAutoreload
+              definition:  TIM3_SetCompare1
+              definition:  TIM3_SetCompare2
+              definition:  TIM3_SetCounter
+              definition:  TIM3_SetIC1Prescaler
+              definition:  TIM3_SetIC2Prescaler
+              definition:  TIM3_TIxExternalClockConfig
+              definition:  TIM3_TimeBaseInit
+              definition:  TIM3_UpdateDisableConfig
+              definition:  TIM3_UpdateRequestConfig
+Loading object D:\【利拍档】\一些项目\麻将机控制器\project\software\LPDEC-04D01H_V01.01_180521\Project\Debug\Obj\stm8l15x_tim4.o.
+              reference :  ?b0
+              reference :  ?b1
+              reference :  ?b2
+              definition:  TIM4_ARRPreloadConfig
+              definition:  TIM4_ClearFlag
+              definition:  TIM4_ClearITPendingBit
+              definition:  TIM4_Cmd
+              definition:  TIM4_DMACmd
+              definition:  TIM4_DeInit
+              definition:  TIM4_GenerateEvent
+              definition:  TIM4_GetCounter
+              definition:  TIM4_GetFlagStatus
+              definition:  TIM4_GetITStatus
+              definition:  TIM4_GetPrescaler
+              definition:  TIM4_ITConfig
+              definition:  TIM4_InternalClockConfig
+              definition:  TIM4_PrescalerConfig
+              definition:  TIM4_SelectInputTrigger
+              definition:  TIM4_SelectMasterSlaveMode
+              definition:  TIM4_SelectOnePulseMode
+              definition:  TIM4_SelectOutputTrigger
+              definition:  TIM4_SelectSlaveMode
+              definition:  TIM4_SetAutoreload
+              definition:  TIM4_SetCounter
+              definition:  TIM4_TimeBaseInit
+              definition:  TIM4_UpdateDisableConfig
+              definition:  TIM4_UpdateRequestConfig
+              definition:  __iar_cc..SSvMG89bEr1
+Loading object D:\【利拍档】\一些项目\麻将机控制器\project\software\LPDEC-04D01H_V01.01_180521\Project\Debug\Obj\stm8l15x_tim5.o.
+              reference :  ?b0
+              reference :  ?b1
+              reference :  ?b2
+              reference :  ?b3
+              reference :  ?b4
+              reference :  ?b5
+              reference :  ?b6
+              reference :  ?b7
+              reference :  ?b8
+              reference :  ?b9
+              reference :  ?epilogue_w4
+              reference :  ?push_w4
+              reference :  ?w0
+              definition:  TIM5_ARRPreloadConfig
+              definition:  TIM5_BKRConfig
+              definition:  TIM5_CCxCmd
+              definition:  TIM5_ClearFlag
+              definition:  TIM5_ClearITPendingBit
+              definition:  TIM5_Cmd
+              definition:  TIM5_CounterModeConfig
+              definition:  TIM5_CtrlPWMOutputs
+              definition:  TIM5_DMACmd
+              definition:  TIM5_DeInit
+              definition:  TIM5_ETRClockMode1Config
+              definition:  TIM5_ETRClockMode2Config
+              definition:  TIM5_ETRConfig
+              definition:  TIM5_EncoderInterfaceConfig
+              definition:  TIM5_ForcedOC1Config
+              definition:  TIM5_ForcedOC2Config
+              definition:  TIM5_GenerateEvent
+              definition:  TIM5_GetCapture1
+              definition:  TIM5_GetCapture2
+              definition:  TIM5_GetCounter
+              definition:  TIM5_GetFlagStatus
+              definition:  TIM5_GetITStatus
+              definition:  TIM5_GetPrescaler
+              definition:  TIM5_ICInit
+              definition:  TIM5_ITConfig
+              definition:  TIM5_InternalClockConfig
+              definition:  TIM5_OC1FastConfig
+              definition:  TIM5_OC1Init
+              definition:  TIM5_OC1PolarityConfig
+              definition:  TIM5_OC1PreloadConfig
+              definition:  TIM5_OC2FastConfig
+              definition:  TIM5_OC2Init
+              definition:  TIM5_OC2PolarityConfig
+              definition:  TIM5_OC2PreloadConfig
+              definition:  TIM5_PWMIConfig
+              definition:  TIM5_PrescalerConfig
+              definition:  TIM5_SelectCCDMA
+              definition:  TIM5_SelectHallSensor
+              definition:  TIM5_SelectInputTrigger
+              definition:  TIM5_SelectMasterSlaveMode
+              definition:  TIM5_SelectOCxM
+              definition:  TIM5_SelectOnePulseMode
+              definition:  TIM5_SelectOutputTrigger
+              definition:  TIM5_SelectSlaveMode
+              definition:  TIM5_SetAutoreload
+              definition:  TIM5_SetCompare1
+              definition:  TIM5_SetCompare2
+              definition:  TIM5_SetCounter
+              definition:  TIM5_SetIC1Prescaler
+              definition:  TIM5_SetIC2Prescaler
+              definition:  TIM5_TIxExternalClockConfig
+              definition:  TIM5_TimeBaseInit
+              definition:  TIM5_UpdateDisableConfig
+              definition:  TIM5_UpdateRequestConfig
+Loading object D:\【利拍档】\一些项目\麻将机控制器\project\software\LPDEC-04D01H_V01.01_180521\Project\Debug\Obj\stm8l15x_usart.o.
+              reference :  ?b0
+              reference :  ?b1
+              reference :  ?b3
+              reference :  ?b4
+              reference :  ?b5
+              reference :  ?b6
+              reference :  ?b8
+              reference :  ?e0
+              reference :  ?e1
+              reference :  ?e2
+              reference :  ?e3
+              reference :  ?load32_l1_xsp
+              reference :  ?mov_e0_e1
+              reference :  ?mov_e0_e2
+              reference :  ?mov_e1_e0
+              reference :  ?mov_e2_e0
+              reference :  ?mov_e3_e2
+              reference :  ?pop_e2
+              reference :  ?pop_e3
+              reference :  ?push_e2
+              reference :  ?push_e3
+              reference :  ?push_l1
+              reference :  ?sll16_x_x_a
+              reference :  ?udiv32_l0_l0_l1
+              reference :  ?w1
+              reference :  ?w2
+              reference :  ?w3
+              reference :  ?w5
+              reference :  ?w7
+              reference :  CLK_GetClockFreq
+              definition:  USART_ClearFlag
+              definition:  USART_ClearITPendingBit
+              definition:  USART_ClockInit
+              definition:  USART_Cmd
+              definition:  USART_DMACmd
+              definition:  USART_DeInit
+              definition:  USART_GetFlagStatus
+              definition:  USART_GetITStatus
+              definition:  USART_HalfDuplexCmd
+              definition:  USART_ITConfig
+              definition:  USART_Init
+              definition:  USART_IrDACmd
+              definition:  USART_IrDAConfig
+              definition:  USART_ReceiveData8
+              definition:  USART_ReceiveData9
+              definition:  USART_ReceiverWakeUpCmd
+              definition:  USART_SendBreak
+              definition:  USART_SendData8
+              definition:  USART_SendData9
+              definition:  USART_SetAddress
+              definition:  USART_SetGuardTime
+              definition:  USART_SetPrescaler
+              definition:  USART_SmartCardCmd
+              definition:  USART_SmartCardNACKCmd
+              definition:  USART_WakeUpConfig
+Loading object D:\【利拍档】\一些项目\麻将机控制器\project\software\LPDEC-04D01H_V01.01_180521\Project\Debug\Obj\stm8l15x_wfe.o.
+              reference :  ?b0
+              reference :  ?b1
+              definition:  WFE_DeInit
+              definition:  WFE_GetWakeUpSourceEventStatus
+              definition:  WFE_WakeUpSourceEventCmd
+              definition:  __iar_cc..dtpzgsfC$a_
+Loading object D:\【利拍档】\一些项目\麻将机控制器\project\software\LPDEC-04D01H_V01.01_180521\Project\Debug\Obj\stm8l15x_wwdg.o.
+              reference :  ?b0
+              reference :  ?b1
+              definition:  WWDG_Enable
+              definition:  WWDG_GetCounter
+              definition:  WWDG_Init
+              definition:  WWDG_SWReset
+              definition:  WWDG_SetCounter
+              definition:  WWDG_SetWindowValue
+Loading object D:\【利拍档】\一些项目\麻将机控制器\project\software\LPDEC-04D01H_V01.01_180521\Project\Debug\Obj\task_common.o.
+              reference :  COMM_Task
+              reference :  Contrl_Task
+              reference :  Interaction_Task
+              reference :  MEM_Read_Task
+              reference :  MEM_Write_Task
+              reference :  Measure_Task
+              reference :  Net_Conn_Task
+              reference :  SG_Task
+              definition:  Task_Struct
+              definition:  g_Maintask
+              definition:  ga_Subtask
+              definition:  ga_TaskMapTable
+Selecting member cstartup.o(dlstm8mln.a) to define __iar_program_start.
+              reference :  ?e0
+              reference :  ?e1
+              reference :  SHT$$INIT_ARRAY$$Limit
+              reference :  SHT$$PREINIT_ARRAY$$Base
+              reference :  __call_ctors
+              reference :  __iar_data_init2
+              reference :  __intvec
+              reference :  __low_level_init
+              reference :  exit
+              reference :  main
+              definition:  ??call_ctors
+              definition:  __iar_cstart_call_ctors
+              definition:  __iar_program_start
+              reference :  CSTACK$$Limit
+Selecting member vregs.o(dlstm8mln.a) to define ?b0.
+              definition:  ?b0
+              definition:  ?b1
+              definition:  ?b10
+              definition:  ?b11
+              definition:  ?b12
+              definition:  ?b13
+              definition:  ?b14
+              definition:  ?b15
+              definition:  ?b2
+              definition:  ?b3
+              definition:  ?b4
+              definition:  ?b5
+              definition:  ?b6
+              definition:  ?b7
+              definition:  ?b8
+              definition:  ?b9
+              definition:  ?e0
+              definition:  ?e1
+              definition:  ?e2
+              definition:  ?e3
+              definition:  ?l0
+              definition:  ?l1
+              definition:  ?l2
+              definition:  ?l3
+              definition:  ?w0
+              definition:  ?w1
+              definition:  ?w2
+              definition:  ?w3
+              definition:  ?w4
+              definition:  ?w5
+              definition:  ?w6
+              definition:  ?w7
+Selecting member vreg_util.o(dlstm8mln.a) to define ?epilogue_w4.
+              reference :  ?e0
+              reference :  ?e1
+              reference :  ?e2
+              reference :  ?e3
+              reference :  ?l0
+              reference :  ?l1
+              reference :  ?l2
+              reference :  ?l3
+              reference :  ?w0
+              reference :  ?w1
+              reference :  ?w2
+              reference :  ?w3
+              reference :  ?w4
+              reference :  ?w5
+              reference :  ?w6
+              reference :  ?w7
+              definition:  ?epilogue_l2
+              definition:  ?epilogue_l2_l3
+              definition:  ?epilogue_l2_w6
+              definition:  ?epilogue_w4
+              definition:  ?mov_e0_e1
+              definition:  ?mov_e0_e2
+              definition:  ?mov_e0_e3
+              definition:  ?mov_e1_e0
+              definition:  ?mov_e1_e2
+              definition:  ?mov_e1_e3
+              definition:  ?mov_e2_e0
+              definition:  ?mov_e2_e1
+              definition:  ?mov_e2_e3
+              definition:  ?mov_e3_e0
+              definition:  ?mov_e3_e1
+              definition:  ?mov_e3_e2
+              definition:  ?mov_l0_l1
+              definition:  ?mov_l0_l2
+              definition:  ?mov_l0_l3
+              definition:  ?mov_l1_l0
+              definition:  ?mov_l1_l2
+              definition:  ?mov_l1_l3
+              definition:  ?mov_l2_l0
+              definition:  ?mov_l2_l1
+              definition:  ?mov_l2_l3
+              definition:  ?mov_l3_l0
+              definition:  ?mov_l3_l1
+              definition:  ?mov_l3_l2
+              definition:  ?mov_w0_w1
+              definition:  ?mov_w0_w2
+              definition:  ?mov_w0_w3
+              definition:  ?mov_w0_w4
+              definition:  ?mov_w0_w5
+              definition:  ?mov_w0_w6
+              definition:  ?mov_w0_w7
+              definition:  ?mov_w1_w0
+              definition:  ?mov_w1_w2
+              definition:  ?mov_w1_w3
+              definition:  ?mov_w1_w4
+              definition:  ?mov_w1_w5
+              definition:  ?mov_w1_w6
+              definition:  ?mov_w1_w7
+              definition:  ?mov_w2_w0
+              definition:  ?mov_w2_w1
+              definition:  ?mov_w2_w3
+              definition:  ?mov_w2_w4
+              definition:  ?mov_w2_w5
+              definition:  ?mov_w2_w6
+              definition:  ?mov_w2_w7
+              definition:  ?mov_w3_w0
+              definition:  ?mov_w3_w1
+              definition:  ?mov_w3_w2
+              definition:  ?mov_w3_w4
+              definition:  ?mov_w3_w5
+              definition:  ?mov_w3_w6
+              definition:  ?mov_w3_w7
+              definition:  ?mov_w4_w0
+              definition:  ?mov_w4_w1
+              definition:  ?mov_w4_w2
+              definition:  ?mov_w4_w3
+              definition:  ?mov_w4_w5
+              definition:  ?mov_w4_w6
+              definition:  ?mov_w4_w7
+              definition:  ?mov_w5_w0
+              definition:  ?mov_w5_w1
+              definition:  ?mov_w5_w2
+              definition:  ?mov_w5_w3
+              definition:  ?mov_w5_w4
+              definition:  ?mov_w5_w6
+              definition:  ?mov_w5_w7
+              definition:  ?mov_w6_w0
+              definition:  ?mov_w6_w1
+              definition:  ?mov_w6_w2
+              definition:  ?mov_w6_w3
+              definition:  ?mov_w6_w4
+              definition:  ?mov_w6_w5
+              definition:  ?mov_w6_w7
+              definition:  ?mov_w7_w0
+              definition:  ?mov_w7_w1
+              definition:  ?mov_w7_w2
+              definition:  ?mov_w7_w3
+              definition:  ?mov_w7_w4
+              definition:  ?mov_w7_w5
+              definition:  ?mov_w7_w6
+              definition:  ?pop_e0
+              definition:  ?pop_e1
+              definition:  ?pop_e2
+              definition:  ?pop_e3
+              definition:  ?pop_l0
+              definition:  ?pop_l1
+              definition:  ?pop_l2
+              definition:  ?pop_l3
+              definition:  ?pop_w0
+              definition:  ?pop_w1
+              definition:  ?pop_w2
+              definition:  ?pop_w3
+              definition:  ?pop_w4
+              definition:  ?pop_w5
+              definition:  ?pop_w6
+              definition:  ?pop_w7
+              definition:  ?push_e0
+              definition:  ?push_e1
+              definition:  ?push_e2
+              definition:  ?push_e3
+              definition:  ?push_l0
+              definition:  ?push_l1
+              definition:  ?push_l2
+              definition:  ?push_l3
+              definition:  ?push_w0
+              definition:  ?push_w1
+              definition:  ?push_w2
+              definition:  ?push_w3
+              definition:  ?push_w4
+              definition:  ?push_w5
+              definition:  ?push_w6
+              definition:  ?push_w7
+Selecting member far_util.o(dlstm8mln.a) to define ?load24_e0_xsp.
+              reference :  ?e0
+              reference :  ?e1
+              reference :  ?e2
+              reference :  ?e3
+              definition:  ?load24_0x_e0
+              definition:  ?load24_0x_e1
+              definition:  ?load24_0x_e2
+              definition:  ?load24_0x_e3
+              definition:  ?load24_asp_e0
+              definition:  ?load24_asp_e1
+              definition:  ?load24_asp_e2
+              definition:  ?load24_asp_e3
+              definition:  ?load24_e0_0x
+              definition:  ?load24_e0_asp
+              definition:  ?load24_e0_xsp
+              definition:  ?load24_e1_0x
+              definition:  ?load24_e1_asp
+              definition:  ?load24_e1_xsp
+              definition:  ?load24_e2_0x
+              definition:  ?load24_e2_asp
+              definition:  ?load24_e2_xsp
+              definition:  ?load24_e3_0x
+              definition:  ?load24_e3_asp
+              definition:  ?load24_e3_xsp
+              definition:  ?load24_xsp_e0
+              definition:  ?load24_xsp_e1
+              definition:  ?load24_xsp_e2
+              definition:  ?load24_xsp_e3
+Selecting member long_util.o(dlstm8mln.a) to define ?load32_0x_l0.
+              reference :  ?l0
+              reference :  ?l1
+              reference :  ?l2
+              reference :  ?l3
+              definition:  ?load32_0x_l0
+              definition:  ?load32_0x_l1
+              definition:  ?load32_0x_l2
+              definition:  ?load32_0x_l3
+              definition:  ?load32_asp_l0
+              definition:  ?load32_asp_l1
+              definition:  ?load32_asp_l2
+              definition:  ?load32_asp_l3
+              definition:  ?load32_l0_0x
+              definition:  ?load32_l0_asp
+              definition:  ?load32_l0_dbsp
+              definition:  ?load32_l0_xsp
+              definition:  ?load32_l1_0x
+              definition:  ?load32_l1_asp
+              definition:  ?load32_l1_dbsp
+              definition:  ?load32_l1_xsp
+              definition:  ?load32_l2_0x
+              definition:  ?load32_l2_asp
+              definition:  ?load32_l2_dbsp
+              definition:  ?load32_l2_xsp
+              definition:  ?load32_l3_0x
+              definition:  ?load32_l3_asp
+              definition:  ?load32_l3_dbsp
+              definition:  ?load32_l3_xsp
+              definition:  ?load32_xsp_l0
+              definition:  ?load32_xsp_l1
+              definition:  ?load32_xsp_l2
+              definition:  ?load32_xsp_l3
+Selecting member move.o(dlstm8mln.a) to define ?move1624_v_x_e0_y.
+              reference :  ?b0
+              reference :  ?b2
+              reference :  ?e0
+              reference :  ?e1
+              reference :  ?store8eeprom_0x_a
+              reference :  ?w0
+              reference :  ?w1
+              reference :  ?w2
+              definition:  ?longfarg16_v_w0_a
+              definition:  ?longfarg16_v_w0_x
+              definition:  ?longfarg24_v_e0_x
+              definition:  ?move1616_v_x_y_a
+              definition:  ?move1616_v_x_y_tos16
+              definition:  ?move1624_v_x_e0_y
+              definition:  ?move16eeprom16_v_x_y_w0
+              definition:  ?move16eeprom24_v_x_e0_y
+              definition:  ?move2416_v_e0_x_y
+              definition:  ?move2424_v_e0_e1_x
+Selecting member short.o(dlstm8mln.a) to define ?mul16_x_x_w0.
+              reference :  ?w0
+              definition:  ?mul16_x_x_w0
+              definition:  ?sdiv16_x_x_y
+              definition:  ?sext16_x_a
+              definition:  ?sll16_x_x_10
+              definition:  ?sll16_x_x_11
+              definition:  ?sll16_x_x_12
+              definition:  ?sll16_x_x_13
+              definition:  ?sll16_x_x_14
+              definition:  ?sll16_x_x_15
+              definition:  ?sll16_x_x_4
+              definition:  ?sll16_x_x_5
+              definition:  ?sll16_x_x_6
+              definition:  ?sll16_x_x_7
+              definition:  ?sll16_x_x_8
+              definition:  ?sll16_x_x_9
+              definition:  ?sll16_x_x_a
+              definition:  ?smod16_y_x_y
+              definition:  ?sra16_x_x_10
+              definition:  ?sra16_x_x_11
+              definition:  ?sra16_x_x_12
+              definition:  ?sra16_x_x_13
+              definition:  ?sra16_x_x_14
+              definition:  ?sra16_x_x_15
+              definition:  ?sra16_x_x_4
+              definition:  ?sra16_x_x_5
+              definition:  ?sra16_x_x_6
+              definition:  ?sra16_x_x_7
+              definition:  ?sra16_x_x_8
+              definition:  ?sra16_x_x_9
+              definition:  ?sra16_x_x_a
+              definition:  ?srl16_x_x_10
+              definition:  ?srl16_x_x_11
+              definition:  ?srl16_x_x_12
+              definition:  ?srl16_x_x_13
+              definition:  ?srl16_x_x_14
+              definition:  ?srl16_x_x_15
+              definition:  ?srl16_x_x_4
+              definition:  ?srl16_x_x_5
+              definition:  ?srl16_x_x_6
+              definition:  ?srl16_x_x_7
+              definition:  ?srl16_x_x_8
+              definition:  ?srl16_x_x_9
+              definition:  ?srl16_x_x_a
+Selecting member long.o(dlstm8mln.a) to define ?sub32_l0_l0_l1.
+              reference :  ?dc32_l0
+              reference :  ?dc32_l1
+              reference :  ?l0
+              reference :  ?l1
+              reference :  ?l2
+              reference :  ?l3
+              definition:  ?add32_l0_l0_0x
+              definition:  ?add32_l0_l0_l1
+              definition:  ?and32_l0_l0_0x
+              definition:  ?and32_l0_l0_l1
+              definition:  ?dec32_0x_0x
+              definition:  ?dec32_l0_l0
+              definition:  ?dec32_l1_l1
+              definition:  ?dec32_l2_l2
+              definition:  ?dec32_l3_l3
+              definition:  ?inc32_0x_0x
+              definition:  ?inc32_l0_l0
+              definition:  ?inc32_l1_l1
+              definition:  ?inc32_l2_l2
+              definition:  ?inc32_l3_l3
+              definition:  ?mul32_l0_l0_0x
+              definition:  ?mul32_l0_l0_l1
+              definition:  ?neg32_l0_l0
+              definition:  ?not32_l0_l0
+              definition:  ?or32_l0_l0_0x
+              definition:  ?or32_l0_l0_l1
+              definition:  ?scmp32_c_l0_0x
+              definition:  ?scmp32_c_l0_l1
+              definition:  ?sdiv32_l0_dl_l1
+              definition:  ?sdiv32_l0_l0_dl
+              definition:  ?sdiv32_l0_l0_l1
+              definition:  ?sext32_l0_a
+              definition:  ?sext32_l0_x
+              definition:  ?sll32_0x_0x_a
+              definition:  ?sll32_l0_l0_a
+              definition:  ?smod32_l1_dl_l1
+              definition:  ?smod32_l1_l0_dl
+              definition:  ?smod32_l1_l0_l1
+              definition:  ?sra32_0x_0x_a
+              definition:  ?sra32_l0_l0_a
+              definition:  ?srl32_0x_0x_a
+              definition:  ?srl32_l0_l0_a
+              definition:  ?sub32_l0_dl_l1
+              definition:  ?sub32_l0_l0_0x
+              definition:  ?sub32_l0_l0_l1
+              definition:  ?ucmp32_c_l0_0x
+              definition:  ?ucmp32_c_l0_l1
+              definition:  ?udiv32_l0_dl_l1
+              definition:  ?udiv32_l0_l0_dl
+              definition:  ?udiv32_l0_l0_l1
+              definition:  ?umod32_l1_dl_l1
+              definition:  ?umod32_l1_l0_dl
+              definition:  ?umod32_l1_l0_l1
+              definition:  ?xor32_l0_l0_0x
+              definition:  ?xor32_l0_l0_l1
+Selecting member far.o(dlstm8mln.a) to define ?ucmp24_c_0x_e0.
+              reference :  ?e0
+              definition:  ?ucmp24_c_0x_e0
+Selecting member strstr.o(dlstm8mln.a) to define __iar_Strstr.
+              reference :  ?b0
+              reference :  ?b1
+              reference :  ?b4
+              reference :  ?b5
+              reference :  ?e0
+              reference :  ?e1
+              reference :  ?e2
+              reference :  ?load24_e0_asp
+              reference :  ?load24_e1_asp
+              reference :  ?mov_e0_e1
+              reference :  ?mov_e1_e0
+              reference :  ?mov_e2_e1
+              reference :  ?pop_e2
+              reference :  ?push_e1
+              reference :  ?push_e2
+              reference :  ?ucmp24_c_0x_e0
+              reference :  ?w1
+              reference :  ?w3
+              reference :  ?w5
+              definition:  __iar_Strstr
+              definition:  strstr
+Selecting member memcpy.o(dlstm8mln.a) to define memcpy.
+              reference :  ?e1
+              reference :  ?e2
+              reference :  ?mov_e2_e0
+              reference :  ?pop_e2
+              reference :  ?push_e2
+              reference :  ?w3
+              reference :  ?w5
+              definition:  memcpy
+Selecting member memset.o(dlstm8mln.a) to define memset.
+              reference :  ?e1
+              reference :  ?mov_e1_e0
+              reference :  ?w3
+              definition:  memset
+Selecting member strcpy.o(dlstm8mln.a) to define strcpy.
+              reference :  ?e1
+              reference :  ?e2
+              reference :  ?mov_e2_e0
+              reference :  ?pop_e2
+              reference :  ?push_e2
+              reference :  ?w3
+              reference :  ?w5
+              definition:  strcpy
+Selecting member strlen.o(dlstm8mln.a) to define strlen.
+              reference :  ?e0
+              reference :  ?mov_e1_e0
+              reference :  ?w1
+              reference :  ?w3
+              definition:  strlen
+Selecting member atoi.o(dlstm8mln.a) to define atoi.
+              reference :  ?b5
+              reference :  ?w1
+              reference :  ?w3
+              reference :  __iar_Stoul
+              definition:  atoi
+Selecting member char.o(dlstm8mln.a) to define ?sll8_a_a_6.
+              reference :  ?b0
+              definition:  ?sdiv8_xl_a_b0
+              definition:  ?sll8_a_a_5
+              definition:  ?sll8_a_a_6
+              definition:  ?sll8_a_a_b0
+              definition:  ?smod8_a_b0_a
+              definition:  ?sra8_a_a_4
+              definition:  ?sra8_a_a_5
+              definition:  ?sra8_a_a_6
+              definition:  ?sra8_a_a_7
+              definition:  ?sra8_a_a_b0
+              definition:  ?srl8_a_a_5
+              definition:  ?srl8_a_a_6
+              definition:  ?srl8_a_a_b0
+Selecting member cppinit.o(dlstm8mln.a) to define __call_ctors.
+              reference :  ?b1
+              reference :  ?b2
+              reference :  ?b3
+              reference :  ?b5
+              reference :  ?b6
+              reference :  ?b7
+              reference :  ?b9
+              reference :  ?e0
+              reference :  ?e1
+              reference :  ?e2
+              reference :  ?load24_0x_e0
+              reference :  ?load24_e0_0x
+              reference :  ?load24_e0_asp
+              reference :  ?load24_e1_asp
+              reference :  ?load24_e2_0x
+              reference :  ?load24_xsp_e0
+              reference :  ?mov_e0_e1
+              reference :  ?mov_e0_e2
+              reference :  ?mov_e1_e2
+              reference :  ?mov_e2_e0
+              reference :  ?pop_e2
+              reference :  ?push_e0
+              reference :  ?push_e1
+              reference :  ?push_e2
+              reference :  ?ucmp24_c_0x_e0
+              reference :  ?w1
+              reference :  ?w3
+              reference :  ?w5
+              reference :  __cstart_call_dtors
+              definition:  __call_ctors
+              definition:  __call_dtors
+              definition:  __cxa_atexit
+              definition:  __cxa_finalize
+              definition:  __dso_handle
+              reference :  .iar.dynexit$$Limit
+              reference :  .iar.dynexit$$Base
+Selecting member init.o(dlstm8mln.a) to define __iar_data_init2.
+              reference :  ?e1
+              reference :  ?load24_e1_0x
+              reference :  ?w0
+              reference :  ?w1
+              reference :  ?w3
+              definition:  __iar_copy_init2
+              definition:  __iar_data_init2
+              definition:  __iar_zero_init2
+              reference :  Region$$Table$$Base
+              reference :  Region$$Table$$Limit
+Selecting member interrupt.o(dlstm8mln.a) to define __intvec.
+              reference :  __iar_program_start
+              reference :  __iar_unhandled_exception
+              definition:  __intvec
+              weak def  :  _interrupt_1
+              weak def  :  _interrupt_10
+              weak def  :  _interrupt_11
+              weak def  :  _interrupt_12
+              weak def  :  _interrupt_13
+              weak def  :  _interrupt_14
+              weak def  :  _interrupt_15
+              weak def  :  _interrupt_16
+              weak def  :  _interrupt_17
+              weak def  :  _interrupt_18
+              weak def  :  _interrupt_19
+              weak def  :  _interrupt_2
+              weak def  :  _interrupt_20
+              weak def  :  _interrupt_21
+              weak def  :  _interrupt_22
+              weak def  :  _interrupt_23
+              weak def  :  _interrupt_24
+              weak def  :  _interrupt_25
+              weak def  :  _interrupt_26
+              weak def  :  _interrupt_27
+              weak def  :  _interrupt_28
+              weak def  :  _interrupt_29
+              weak def  :  _interrupt_3
+              weak def  :  _interrupt_30
+              weak def  :  _interrupt_31
+              weak def  :  _interrupt_4
+              weak def  :  _interrupt_5
+              weak def  :  _interrupt_6
+              weak def  :  _interrupt_7
+              weak def  :  _interrupt_8
+              weak def  :  _interrupt_9
+Selecting member low_level_init.o(dlstm8mln.a) to define __low_level_init.
+              definition:  __low_level_init
+Selecting member exit.o(dlstm8mln.a) to define exit.
+              reference :  _exit
+              definition:  exit
+Selecting member dc_util.o(dlstm8mln.a) to define ?dc32_l0.
+              reference :  ?e0
+              reference :  ?e1
+              reference :  ?e2
+              reference :  ?e3
+              reference :  ?l0
+              reference :  ?l1
+              reference :  ?l2
+              reference :  ?l3
+              definition:  ?dc32_l0
+              definition:  ?dc32_l1
+              definition:  ?dc32_l2
+              definition:  ?dc32_l3
+Selecting member xstoul.o(dlstm8mln.a) to define __iar_Stoul.
+              reference :  ?add32_l0_l0_l1
+              reference :  ?b1
+              reference :  ?b10
+              reference :  ?b11
+              reference :  ?b2
+              reference :  ?b3
+              reference :  ?b5
+              reference :  ?b7
+              reference :  ?b8
+              reference :  ?b9
+              reference :  ?e0
+              reference :  ?e1
+              reference :  ?e2
+              reference :  ?epilogue_l2
+              reference :  ?load24_e0_asp
+              reference :  ?load24_e1_asp
+              reference :  ?load24_e2_asp
+              reference :  ?load24_xsp_e2
+              reference :  ?load32_l0_dbsp
+              reference :  ?load32_l1_dbsp
+              reference :  ?load32_xsp_l0
+              reference :  ?mov_e0_e2
+              reference :  ?mov_e1_e0
+              reference :  ?mov_e1_e2
+              reference :  ?mov_e2_e0
+              reference :  ?mov_l0_l1
+              reference :  ?mov_l1_l0
+              reference :  ?mul32_l0_l0_l1
+              reference :  ?neg32_l0_l0
+              reference :  ?pop_l1
+              reference :  ?push_e0
+              reference :  ?push_e1
+              reference :  ?push_l0
+              reference :  ?push_l2
+              reference :  ?sext32_l0_x
+              reference :  ?sub32_l0_l0_l1
+              reference :  ?ucmp24_c_0x_e0
+              reference :  ?ucmp32_c_l0_l1
+              reference :  ?udiv32_l0_l0_l1
+              reference :  ?w0
+              reference :  ?w1
+              reference :  ?w2
+              reference :  ?w3
+              reference :  ?w5
+              reference :  __iar_Errno
+              reference :  __iar_Memchr
+              definition:  __iar_Stoul
+              definition:  __iar_Stoulx
+Selecting member cexit.o(dlstm8mln.a) to define __cstart_call_dtors.
+              reference :  _Close_all
+              reference :  __call_dtors
+              reference :  __exit
+              definition:  __cstart_call_dtors
+              definition:  __cstart_closeall
+              definition:  _exit
+Selecting member unhandled_exception.o(dlstm8mln.a) to define __iar_unhandled_exception.
+              definition:  __iar_unhandled_exception
+Selecting member errno.o(dlstm8mln.a) to define __iar_Errno.
+              reference :  ?b1
+              reference :  ?w1
+              definition:  __iar_Errno
+              definition:  __stm8abi_EDOM
+              definition:  __stm8abi_EFPOS
+              definition:  __stm8abi_EILSEQ
+              definition:  __stm8abi_ERANGE
+              definition:  __stm8abi_ERRMAX
+              definition:  __stm8abi_errno_addr
+Selecting member memchr.o(dlstm8mln.a) to define __iar_Memchr.
+              reference :  ?b0
+              reference :  ?b1
+              reference :  ?e0
+              reference :  ?w1
+              definition:  __iar_Memchr
+              definition:  memchr
+Selecting member xcloseall.o(dlstm8mln.a) to define _Close_all.
+              reference :  ?b1
+              reference :  ?w1
+              reference :  __write
+              definition:  _Close_all
+Selecting member __dbg_xxexit.o(dbgstm8mld.a) to define __exit.
+              reference :  ?b1
+              reference :  ?push_w4
+              reference :  ?w1
+              reference :  ?w4
+              reference :  __DebugBreak
+              definition:  __exit
+Selecting member __dbg_xxwrite.o(dbgstm8mld.a) to define __write.
+              reference :  ?b1
+              reference :  ?b9
+              reference :  ?mov_e0_e2
+              reference :  ?mov_e2_e0
+              reference :  ?pop_e2
+              reference :  ?push_e2
+              reference :  ?ucmp24_c_0x_e0
+              reference :  ?w1
+              reference :  ?w2
+              reference :  ?w5
+              reference :  __dwrite
+              definition:  __write
+Selecting member __dbg_break.o(dbgstm8mld.a) to define __DebugBreak.
+              definition:  __DebugBreak
+Selecting member __dbg_xxdwrite.o(dbgstm8mld.a) to define __dwrite.
+              reference :  ?b1
+              reference :  ?load24_xsp_e0
+              reference :  ?w1
+              reference :  __DebugBreak
+              definition:  __dwrite
+Resolving duplicate symbol definitions
+  Picking _interrupt_15 [s21 D:\【利拍档】\一些项目\麻将机控制器\project\software\LPDEC-04D01H_V01.01_180521\Project\Debug\Obj\stm8l15x_it.o]
+    Suppressing _interrupt_15 [s6 interrupt.o(dlstm8mln.a)]
+  Picking _interrupt_27 [s34 D:\【利拍档】\一些项目\麻将机控制器\project\software\LPDEC-04D01H_V01.01_180521\Project\Debug\Obj\stm8l15x_it.o]
+    Suppressing _interrupt_27 [s6 interrupt.o(dlstm8mln.a)]
+  Picking _interrupt_8 [s14 D:\【利拍档】\一些项目\麻将机控制器\project\software\LPDEC-04D01H_V01.01_180521\Project\Debug\Obj\stm8l15x_it.o]
+    Suppressing _interrupt_8 [s6 interrupt.o(dlstm8mln.a)]
+  Picking _interrupt_16 [s22 D:\【利拍档】\一些项目\麻将机控制器\project\software\LPDEC-04D01H_V01.01_180521\Project\Debug\Obj\stm8l15x_it.o]
+    Suppressing _interrupt_16 [s6 interrupt.o(dlstm8mln.a)]
+  Picking _interrupt_26 [s33 D:\【利拍档】\一些项目\麻将机控制器\project\software\LPDEC-04D01H_V01.01_180521\Project\Debug\Obj\stm8l15x_it.o]
+    Suppressing _interrupt_26 [s6 interrupt.o(dlstm8mln.a)]
+  Picking _interrupt_7 [s13 D:\【利拍档】\一些项目\麻将机控制器\project\software\LPDEC-04D01H_V01.01_180521\Project\Debug\Obj\stm8l15x_it.o]
+    Suppressing _interrupt_7 [s6 interrupt.o(dlstm8mln.a)]
+  Picking _interrupt_17 [s23 D:\【利拍档】\一些项目\麻将机控制器\project\software\LPDEC-04D01H_V01.01_180521\Project\Debug\Obj\stm8l15x_it.o]
+    Suppressing _interrupt_17 [s6 interrupt.o(dlstm8mln.a)]
+  Picking _interrupt_21 [s27 D:\【利拍档】\一些项目\麻将机控制器\project\software\LPDEC-04D01H_V01.01_180521\Project\Debug\Obj\stm8l15x_it.o]
+    Suppressing _interrupt_21 [s6 interrupt.o(dlstm8mln.a)]
+  Picking _interrupt_29 [s36 D:\【利拍档】\一些项目\麻将机控制器\project\software\LPDEC-04D01H_V01.01_180521\Project\Debug\Obj\stm8l15x_it.o]
+    Suppressing _interrupt_29 [s6 interrupt.o(dlstm8mln.a)]
+  Picking _interrupt_6 [s12 D:\【利拍档】\一些项目\麻将机控制器\project\software\LPDEC-04D01H_V01.01_180521\Project\Debug\Obj\stm8l15x_it.o]
+    Suppressing _interrupt_6 [s6 interrupt.o(dlstm8mln.a)]
+  Picking _interrupt_10 [s16 D:\【利拍档】\一些项目\麻将机控制器\project\software\LPDEC-04D01H_V01.01_180521\Project\Debug\Obj\stm8l15x_it.o]
+    Suppressing _interrupt_10 [s6 interrupt.o(dlstm8mln.a)]
+  Picking _interrupt_18 [s24 D:\【利拍档】\一些项目\麻将机控制器\project\software\LPDEC-04D01H_V01.01_180521\Project\Debug\Obj\stm8l15x_it.o]
+    Suppressing _interrupt_18 [s6 interrupt.o(dlstm8mln.a)]
+  Picking _interrupt_20 [s26 D:\【利拍档】\一些项目\麻将机控制器\project\software\LPDEC-04D01H_V01.01_180521\Project\Debug\Obj\stm8l15x_it.o]
+    Suppressing _interrupt_20 [s6 interrupt.o(dlstm8mln.a)]
+  Picking _interrupt_28 [s35 D:\【利拍档】\一些项目\麻将机控制器\project\software\LPDEC-04D01H_V01.01_180521\Project\Debug\Obj\stm8l15x_it.o]
+    Suppressing _interrupt_28 [s6 interrupt.o(dlstm8mln.a)]
+  Picking _interrupt_30 [s37 D:\【利拍档】\一些项目\麻将机控制器\project\software\LPDEC-04D01H_V01.01_180521\Project\Debug\Obj\stm8l15x_it.o]
+    Suppressing _interrupt_30 [s6 interrupt.o(dlstm8mln.a)]
+  Picking _interrupt_5 [s11 D:\【利拍档】\一些项目\麻将机控制器\project\software\LPDEC-04D01H_V01.01_180521\Project\Debug\Obj\stm8l15x_it.o]
+    Suppressing _interrupt_5 [s6 interrupt.o(dlstm8mln.a)]
+  Picking _interrupt_11 [s17 D:\【利拍档】\一些项目\麻将机控制器\project\software\LPDEC-04D01H_V01.01_180521\Project\Debug\Obj\stm8l15x_it.o]
+    Suppressing _interrupt_11 [s6 interrupt.o(dlstm8mln.a)]
+  Picking _interrupt_19 [s25 D:\【利拍档】\一些项目\麻将机控制器\project\software\LPDEC-04D01H_V01.01_180521\Project\Debug\Obj\stm8l15x_it.o]
+    Suppressing _interrupt_19 [s6 interrupt.o(dlstm8mln.a)]
+  Picking _interrupt_23 [s30 D:\【利拍档】\一些项目\麻将机控制器\project\software\LPDEC-04D01H_V01.01_180521\Project\Debug\Obj\stm8l15x_it.o]
+    Suppressing _interrupt_23 [s6 interrupt.o(dlstm8mln.a)]
+  Picking _interrupt_31 [s38 D:\【利拍档】\一些项目\麻将机控制器\project\software\LPDEC-04D01H_V01.01_180521\Project\Debug\Obj\stm8l15x_it.o]
+    Suppressing _interrupt_31 [s6 interrupt.o(dlstm8mln.a)]
+  Picking _interrupt_4 [s10 D:\【利拍档】\一些项目\麻将机控制器\project\software\LPDEC-04D01H_V01.01_180521\Project\Debug\Obj\stm8l15x_it.o]
+    Suppressing _interrupt_4 [s6 interrupt.o(dlstm8mln.a)]
+  Picking _interrupt_12 [s18 D:\【利拍档】\一些项目\麻将机控制器\project\software\LPDEC-04D01H_V01.01_180521\Project\Debug\Obj\stm8l15x_it.o]
+    Suppressing _interrupt_12 [s6 interrupt.o(dlstm8mln.a)]
+  Picking _interrupt_22 [s29 D:\【利拍档】\一些项目\麻将机控制器\project\software\LPDEC-04D01H_V01.01_180521\Project\Debug\Obj\stm8l15x_it.o]
+    Suppressing _interrupt_22 [s6 interrupt.o(dlstm8mln.a)]
+  Picking _interrupt_3 [s9 D:\【利拍档】\一些项目\麻将机控制器\project\software\LPDEC-04D01H_V01.01_180521\Project\Debug\Obj\stm8l15x_it.o]
+    Suppressing _interrupt_3 [s6 interrupt.o(dlstm8mln.a)]
+  Picking _interrupt_13 [s19 D:\【利拍档】\一些项目\麻将机控制器\project\software\LPDEC-04D01H_V01.01_180521\Project\Debug\Obj\stm8l15x_it.o]
+    Suppressing _interrupt_13 [s6 interrupt.o(dlstm8mln.a)]
+  Picking _interrupt_25 [s32 D:\【利拍档】\一些项目\麻将机控制器\project\software\LPDEC-04D01H_V01.01_180521\Project\Debug\Obj\stm8l15x_it.o]
+    Suppressing _interrupt_25 [s6 interrupt.o(dlstm8mln.a)]
+  Picking _interrupt_1 [s8 D:\【利拍档】\一些项目\麻将机控制器\project\software\LPDEC-04D01H_V01.01_180521\Project\Debug\Obj\stm8l15x_it.o]
+    Suppressing _interrupt_1 [s6 interrupt.o(dlstm8mln.a)]
+  Picking _interrupt_14 [s20 D:\【利拍档】\一些项目\麻将机控制器\project\software\LPDEC-04D01H_V01.01_180521\Project\Debug\Obj\stm8l15x_it.o]
+    Suppressing _interrupt_14 [s6 interrupt.o(dlstm8mln.a)]
+  Picking _interrupt_24 [s31 D:\【利拍档】\一些项目\麻将机控制器\project\software\LPDEC-04D01H_V01.01_180521\Project\Debug\Obj\stm8l15x_it.o]
+    Suppressing _interrupt_24 [s6 interrupt.o(dlstm8mln.a)]
+  Picking _interrupt_9 [s15 D:\【利拍档】\一些项目\麻将机控制器\project\software\LPDEC-04D01H_V01.01_180521\Project\Debug\Obj\stm8l15x_it.o]
+    Suppressing _interrupt_9 [s6 interrupt.o(dlstm8mln.a)]
+  Picking __iar_cc..tJwXq0JMgK7 [s84 D:\【利拍档】\一些项目\麻将机控制器\project\software\LPDEC-04D01H_V01.01_180521\Project\Debug\Obj\stm8l15x_gpio.o]
+    Suppressing __iar_cc..tJwXq0JMgK7 [s219 D:\【利拍档】\一些项目\麻将机控制器\project\software\LPDEC-04D01H_V01.01_180521\Project\Debug\Obj\app_comm_g510.o]
+    Suppressing __iar_cc..tJwXq0JMgK7 [s39 D:\【利拍档】\一些项目\麻将机控制器\project\software\LPDEC-04D01H_V01.01_180521\Project\Debug\Obj\bsp_gpio.o]
+    Suppressing __iar_cc..tJwXq0JMgK7 [s33 D:\【利拍档】\一些项目\麻将机控制器\project\software\LPDEC-04D01H_V01.01_180521\Project\Debug\Obj\bsp_gprs.o]
+    Suppressing __iar_cc..tJwXq0JMgK7 [s34 D:\【利拍档】\一些项目\麻将机控制器\project\software\LPDEC-04D01H_V01.01_180521\Project\Debug\Obj\bsp_key.o]
+    Suppressing __iar_cc..tJwXq0JMgK7 [s44 D:\【利拍档】\一些项目\麻将机控制器\project\software\LPDEC-04D01H_V01.01_180521\Project\Debug\Obj\bsp_led.o]
+    Suppressing __iar_cc..tJwXq0JMgK7 [s140 D:\【利拍档】\一些项目\麻将机控制器\project\software\LPDEC-04D01H_V01.01_180521\Project\Debug\Obj\bsp_mem.o]
+    Suppressing __iar_cc..tJwXq0JMgK7 [s28 D:\【利拍档】\一些项目\麻将机控制器\project\software\LPDEC-04D01H_V01.01_180521\Project\Debug\Obj\bsp_uart.o]
+  Picking strstr [s9 D:\【利拍档】\一些项目\麻将机控制器\project\software\LPDEC-04D01H_V01.01_180521\Project\Debug\Obj\app_comm_g510.o]
+    Suppressing strstr [s7 strstr.o(dlstm8mln.a)]
